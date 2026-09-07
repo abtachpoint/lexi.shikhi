@@ -1,0 +1,374 @@
+[
+  {
+    "id": "grammar_001",
+    "title_en": "Parts of Speech",
+    "title_bn": "Parts of Speech",
+    "coin_cost": 1,
+    "difficulty": "easy",
+    "lesson": "Parts of speech classify words by their function in a sentence.",
+    "examples": [
+      "Noun: Rina reads a book.",
+      "Verb: Rina reads a book.",
+      "Adjective: It is a useful book."
+    ],
+    "bangla_explanation": "নিয়মটি সহজভাবে বুঝে উদাহরণগুলো লক্ষ্য করুন।",
+    "tags": [
+      "grammar",
+      "lesson"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "grammar_002",
+    "title_en": "Tense",
+    "title_bn": "Tense",
+    "coin_cost": 1,
+    "difficulty": "easy",
+    "lesson": "Tense shows the time of an action or state.",
+    "examples": [
+      "Present: I read every day.",
+      "Past: I read yesterday.",
+      "Future: I will read tomorrow."
+    ],
+    "bangla_explanation": "নিয়মটি সহজভাবে বুঝে উদাহরণগুলো লক্ষ্য করুন।",
+    "tags": [
+      "grammar",
+      "lesson"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "grammar_003",
+    "title_en": "Article",
+    "title_bn": "Article",
+    "coin_cost": 1,
+    "difficulty": "easy",
+    "lesson": "Articles are a, an, and the. They come before nouns.",
+    "examples": [
+      "a book",
+      "an apple",
+      "the sun"
+    ],
+    "bangla_explanation": "নিয়মটি সহজভাবে বুঝে উদাহরণগুলো লক্ষ্য করুন।",
+    "tags": [
+      "grammar",
+      "lesson"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "grammar_004",
+    "title_en": "Preposition",
+    "title_bn": "Preposition",
+    "coin_cost": 1,
+    "difficulty": "easy",
+    "lesson": "A preposition shows relation of place, time, direction, or other connection.",
+    "examples": [
+      "in the room",
+      "on Monday",
+      "at 5 pm"
+    ],
+    "bangla_explanation": "নিয়মটি সহজভাবে বুঝে উদাহরণগুলো লক্ষ্য করুন।",
+    "tags": [
+      "grammar",
+      "lesson"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "grammar_005",
+    "title_en": "Right Form of Verbs",
+    "title_bn": "Right Form of Verbs",
+    "coin_cost": 1,
+    "difficulty": "easy",
+    "lesson": "The form of a verb changes according to tense, subject, and sentence structure.",
+    "examples": [
+      "He goes to school.",
+      "They go to school.",
+      "She has finished the work."
+    ],
+    "bangla_explanation": "নিয়মটি সহজভাবে বুঝে উদাহরণগুলো লক্ষ্য করুন।",
+    "tags": [
+      "grammar",
+      "lesson"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "grammar_006",
+    "title_en": "Subject-Verb Agreement",
+    "title_bn": "Subject-Verb Agreement",
+    "coin_cost": 1,
+    "difficulty": "easy",
+    "lesson": "A verb should agree with its subject in number and person.",
+    "examples": [
+      "He plays.",
+      "They play.",
+      "The students are ready."
+    ],
+    "bangla_explanation": "নিয়মটি সহজভাবে বুঝে উদাহরণগুলো লক্ষ্য করুন।",
+    "tags": [
+      "grammar",
+      "lesson"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "grammar_007",
+    "title_en": "Voice Change",
+    "title_bn": "Voice Change",
+    "coin_cost": 1,
+    "difficulty": "easy",
+    "lesson": "Voice shows whether the subject performs or receives the action.",
+    "examples": [
+      "Active: Rina wrote the letter.",
+      "Passive: The letter was written by Rina."
+    ],
+    "bangla_explanation": "নিয়মটি সহজভাবে বুঝে উদাহরণগুলো লক্ষ্য করুন।",
+    "tags": [
+      "grammar",
+      "lesson"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "grammar_008",
+    "title_en": "Narration",
+    "title_bn": "Narration",
+    "coin_cost": 1,
+    "difficulty": "easy",
+    "lesson": "Narration changes direct speech into indirect speech or vice versa.",
+    "examples": [
+      "He said, “I am busy.”",
+      "He said that he was busy."
+    ],
+    "bangla_explanation": "নিয়মটি সহজভাবে বুঝে উদাহরণগুলো লক্ষ্য করুন।",
+    "tags": [
+      "grammar",
+      "lesson"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "grammar_009",
+    "title_en": "Degree Change",
+    "title_bn": "Degree Change",
+    "coin_cost": 1,
+    "difficulty": "easy",
+    "lesson": "Adjectives can be positive, comparative, or superlative.",
+    "examples": [
+      "tall",
+      "taller",
+      "tallest"
+    ],
+    "bangla_explanation": "নিয়মটি সহজভাবে বুঝে উদাহরণগুলো লক্ষ্য করুন।",
+    "tags": [
+      "grammar",
+      "lesson"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "grammar_010",
+    "title_en": "Sentence Transformation",
+    "title_bn": "Sentence Transformation",
+    "coin_cost": 1,
+    "difficulty": "easy",
+    "lesson": "A sentence can often change form without changing its basic meaning.",
+    "examples": [
+      "He is honest. / He is not dishonest.",
+      "Only Rina came. / None but Rina came."
+    ],
+    "bangla_explanation": "নিয়মটি সহজভাবে বুঝে উদাহরণগুলো লক্ষ্য করুন।",
+    "tags": [
+      "grammar",
+      "lesson"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "grammar_011",
+    "title_en": "Completing Sentence",
+    "title_bn": "Completing Sentence",
+    "coin_cost": 2,
+    "difficulty": "medium",
+    "lesson": "A sentence should be completed with a logically and grammatically correct clause.",
+    "examples": [
+      "If you work hard, you will succeed.",
+      "Though he is poor, he is honest."
+    ],
+    "bangla_explanation": "নিয়মটি সহজভাবে বুঝে উদাহরণগুলো লক্ষ্য করুন।",
+    "tags": [
+      "grammar",
+      "lesson"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "grammar_012",
+    "title_en": "Punctuation",
+    "title_bn": "Punctuation",
+    "coin_cost": 2,
+    "difficulty": "medium",
+    "lesson": "Punctuation marks organize written language and clarify meaning.",
+    "examples": [
+      "Full stop (.)",
+      "Comma (,)",
+      "Question mark (?)"
+    ],
+    "bangla_explanation": "নিয়মটি সহজভাবে বুঝে উদাহরণগুলো লক্ষ্য করুন।",
+    "tags": [
+      "grammar",
+      "lesson"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "grammar_013",
+    "title_en": "Synonym",
+    "title_bn": "Synonym",
+    "coin_cost": 2,
+    "difficulty": "medium",
+    "lesson": "A synonym is a word with the same or nearly the same meaning.",
+    "examples": [
+      "big = large",
+      "begin = start",
+      "smart = clever"
+    ],
+    "bangla_explanation": "নিয়মটি সহজভাবে বুঝে উদাহরণগুলো লক্ষ্য করুন।",
+    "tags": [
+      "grammar",
+      "lesson"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "grammar_014",
+    "title_en": "Antonym",
+    "title_bn": "Antonym",
+    "coin_cost": 2,
+    "difficulty": "medium",
+    "lesson": "An antonym is a word with an opposite meaning.",
+    "examples": [
+      "hot ≠ cold",
+      "early ≠ late",
+      "strong ≠ weak"
+    ],
+    "bangla_explanation": "নিয়মটি সহজভাবে বুঝে উদাহরণগুলো লক্ষ্য করুন।",
+    "tags": [
+      "grammar",
+      "lesson"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "grammar_015",
+    "title_en": "Prefix and Suffix",
+    "title_bn": "Prefix and Suffix",
+    "coin_cost": 2,
+    "difficulty": "medium",
+    "lesson": "Prefixes come before roots; suffixes come after roots.",
+    "examples": [
+      "un + happy = unhappy",
+      "kind + ness = kindness"
+    ],
+    "bangla_explanation": "নিয়মটি সহজভাবে বুঝে উদাহরণগুলো লক্ষ্য করুন।",
+    "tags": [
+      "grammar",
+      "lesson"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "grammar_016",
+    "title_en": "Gerund and Infinitive",
+    "title_bn": "Gerund and Infinitive",
+    "coin_cost": 2,
+    "difficulty": "medium",
+    "lesson": "A gerund is verb+ing used as a noun; an infinitive often uses to + base verb.",
+    "examples": [
+      "Swimming is useful.",
+      "I want to learn."
+    ],
+    "bangla_explanation": "নিয়মটি সহজভাবে বুঝে উদাহরণগুলো লক্ষ্য করুন।",
+    "tags": [
+      "grammar",
+      "lesson"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "grammar_017",
+    "title_en": "Conditional Sentence",
+    "title_bn": "Conditional Sentence",
+    "coin_cost": 2,
+    "difficulty": "medium",
+    "lesson": "Conditional sentences express conditions and their results.",
+    "examples": [
+      "If it rains, we will stay home.",
+      "If I were you, I would study."
+    ],
+    "bangla_explanation": "নিয়মটি সহজভাবে বুঝে উদাহরণগুলো লক্ষ্য করুন।",
+    "tags": [
+      "grammar",
+      "lesson"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "grammar_018",
+    "title_en": "Modal Verbs",
+    "title_bn": "Modal Verbs",
+    "coin_cost": 2,
+    "difficulty": "medium",
+    "lesson": "Modal verbs express ability, possibility, permission, advice, or obligation.",
+    "examples": [
+      "can",
+      "may",
+      "should",
+      "must"
+    ],
+    "bangla_explanation": "নিয়মটি সহজভাবে বুঝে উদাহরণগুলো লক্ষ্য করুন।",
+    "tags": [
+      "grammar",
+      "lesson"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "grammar_019",
+    "title_en": "Question Tags",
+    "title_bn": "Question Tags",
+    "coin_cost": 2,
+    "difficulty": "medium",
+    "lesson": "A question tag is a short question added to a statement.",
+    "examples": [
+      "You are ready, aren’t you?",
+      "He can swim, can’t he?"
+    ],
+    "bangla_explanation": "নিয়মটি সহজভাবে বুঝে উদাহরণগুলো লক্ষ্য করুন।",
+    "tags": [
+      "grammar",
+      "lesson"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "grammar_020",
+    "title_en": "Common Errors",
+    "title_bn": "Common Errors",
+    "coin_cost": 2,
+    "difficulty": "medium",
+    "lesson": "Common errors include wrong tense, article, preposition, spelling, and agreement.",
+    "examples": [
+      "He goes to school. ✓",
+      "He go to school. ✗"
+    ],
+    "bangla_explanation": "নিয়মটি সহজভাবে বুঝে উদাহরণগুলো লক্ষ্য করুন।",
+    "tags": [
+      "grammar",
+      "lesson"
+    ],
+    "is_free": false
+  }
+]

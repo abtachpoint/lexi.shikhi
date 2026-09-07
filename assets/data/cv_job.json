@@ -1,0 +1,162 @@
+[
+  {
+    "id": "cv_job_001",
+    "title_en": "Simple Student CV",
+    "title_bn": "সাধারণ শিক্ষার্থী সিভি",
+    "difficulty": "easy",
+    "coin_cost": 2,
+    "preview": "CURRICULUM VITAE\n\nName: [Your Name]\nAddress: [Your Address]\nPhone: [Phone]\nEmail: [Email]\n\nCareer Objective:\nTo build my skills through lear...",
+    "content": "CURRICULUM VITAE\n\nName: [Your Name]\nAddress: [Your Address]\nPhone: [Phone]\nEmail: [Email]\n\nCareer Objective:\nTo build my skills through learning, discipline and responsible work.\n\nEducation:\n• Degree/HSC/SSC: [Institution, Board, Year, Result]\n\nSkills:\n• Communication\n• Basic computer skills\n• Teamwork\n\nPersonal Information:\nDate of Birth: [Date]\nNationality: Bangladeshi\n\nReference:\nAvailable on request.",
+    "bangla_explanation": "সাধারণ শিক্ষার্থী সিভি—নিজের তথ্য অনুযায়ী placeholder অংশগুলো পরিবর্তন করে ব্যবহার করুন।",
+    "tags": [
+      "cv",
+      "job",
+      "career"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "cv_job_002",
+    "title_en": "Job Application for Office Assistant",
+    "title_bn": "অফিস সহকারী পদের আবেদন",
+    "difficulty": "easy",
+    "coin_cost": 2,
+    "preview": "To\nThe Manager\n[Company Name]\n\nSubject: Application for the post of Office Assistant.\n\nSir/Madam,\nWith due respect, I would like to apply fo...",
+    "content": "To\nThe Manager\n[Company Name]\n\nSubject: Application for the post of Office Assistant.\n\nSir/Madam,\nWith due respect, I would like to apply for the post of Office Assistant advertised by your organization. I have completed my required education and have basic computer, communication and organizational skills. I am sincere, punctual and willing to learn.\n\nI would be grateful if you kindly consider my application and give me an opportunity to attend an interview.\n\nYours faithfully,\n[Your Name]",
+    "bangla_explanation": "অফিস সহকারী পদের আবেদন—নিজের তথ্য অনুযায়ী placeholder অংশগুলো পরিবর্তন করে ব্যবহার করুন।",
+    "tags": [
+      "cv",
+      "job",
+      "career"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "cv_job_003",
+    "title_en": "Job Application for Computer Operator",
+    "title_bn": "কম্পিউটার অপারেটর পদের আবেদন",
+    "difficulty": "easy",
+    "coin_cost": 2,
+    "preview": "To\nThe HR Manager\n[Organization]\n\nSubject: Application for the post of Computer Operator.\n\nSir/Madam,\nI am writing to apply for the post of ...",
+    "content": "To\nThe HR Manager\n[Organization]\n\nSubject: Application for the post of Computer Operator.\n\nSir/Madam,\nI am writing to apply for the post of Computer Operator. I have practical knowledge of word processing, spreadsheets, typing, internet use and routine office tasks. I am careful with data and can work responsibly under instructions.\n\nI have enclosed my CV for your consideration. I shall be grateful for an opportunity to prove my ability.\n\nYours faithfully,\n[Your Name]",
+    "bangla_explanation": "কম্পিউটার অপারেটর পদের আবেদন—নিজের তথ্য অনুযায়ী placeholder অংশগুলো পরিবর্তন করে ব্যবহার করুন।",
+    "tags": [
+      "cv",
+      "job",
+      "career"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "cv_job_004",
+    "title_en": "Job Application for Sales Representative",
+    "title_bn": "সেলস রিপ্রেজেন্টেটিভ পদের আবেদন",
+    "difficulty": "easy",
+    "coin_cost": 2,
+    "preview": "To\nThe HR Manager\n[Company]\n\nSubject: Application for the post of Sales Representative.\n\nSir/Madam,\nI wish to apply for the position of Sale...",
+    "content": "To\nThe HR Manager\n[Company]\n\nSubject: Application for the post of Sales Representative.\n\nSir/Madam,\nI wish to apply for the position of Sales Representative. I am interested in customer communication, field work and achieving targets through disciplined effort. I can communicate politely and am willing to travel when required.\n\nPlease consider my application for an interview.\n\nYours faithfully,\n[Your Name]",
+    "bangla_explanation": "সেলস রিপ্রেজেন্টেটিভ পদের আবেদন—নিজের তথ্য অনুযায়ী placeholder অংশগুলো পরিবর্তন করে ব্যবহার করুন।",
+    "tags": [
+      "cv",
+      "job",
+      "career"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "cv_job_005",
+    "title_en": "Career Objective Examples",
+    "title_bn": "ক্যারিয়ার অবজেক্টিভ উদাহরণ",
+    "difficulty": "easy",
+    "coin_cost": 2,
+    "preview": "1. To work in a responsible position where I can learn, contribute and develop professional skills.\n\n2. To build a career in a growth-orient...",
+    "content": "1. To work in a responsible position where I can learn, contribute and develop professional skills.\n\n2. To build a career in a growth-oriented organization through honesty, discipline and continuous learning.\n\n3. To use my communication and organizational skills in a role that creates value for the organization and helps me grow professionally.",
+    "bangla_explanation": "ক্যারিয়ার অবজেক্টিভ উদাহরণ—নিজের তথ্য অনুযায়ী placeholder অংশগুলো পরিবর্তন করে ব্যবহার করুন।",
+    "tags": [
+      "cv",
+      "job",
+      "career"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "cv_job_006",
+    "title_en": "Cover Letter Template",
+    "title_bn": "কভার লেটার টেমপ্লেট",
+    "difficulty": "easy",
+    "coin_cost": 2,
+    "preview": "Dear Hiring Manager,\n\nI am applying for the [Position Name] position at [Company Name]. My education, willingness to learn and ability to wo...",
+    "content": "Dear Hiring Manager,\n\nI am applying for the [Position Name] position at [Company Name]. My education, willingness to learn and ability to work responsibly make me interested in this opportunity. I am comfortable working with others, following instructions and completing assigned tasks on time.\n\nI would appreciate the opportunity to discuss how I can contribute to your organization.\n\nSincerely,\n[Your Name]",
+    "bangla_explanation": "কভার লেটার টেমপ্লেট—নিজের তথ্য অনুযায়ী placeholder অংশগুলো পরিবর্তন করে ব্যবহার করুন।",
+    "tags": [
+      "cv",
+      "job",
+      "career"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "cv_job_007",
+    "title_en": "Email Job Application",
+    "title_bn": "ইমেইলে চাকরির আবেদন",
+    "difficulty": "easy",
+    "coin_cost": 2,
+    "preview": "Subject: Application for [Position Name]\n\nDear Hiring Manager,\n\nPlease accept my application for the position of [Position Name]. I have att...",
+    "content": "Subject: Application for [Position Name]\n\nDear Hiring Manager,\n\nPlease accept my application for the position of [Position Name]. I have attached my CV for your review. I am interested in the role and would be grateful for an opportunity to attend an interview.\n\nThank you for your time and consideration.\n\nBest regards,\n[Your Name]\n[Phone]",
+    "bangla_explanation": "ইমেইলে চাকরির আবেদন—নিজের তথ্য অনুযায়ী placeholder অংশগুলো পরিবর্তন করে ব্যবহার করুন।",
+    "tags": [
+      "cv",
+      "job",
+      "career"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "cv_job_008",
+    "title_en": "CV Skills Section",
+    "title_bn": "সিভির স্কিলস সেকশন",
+    "difficulty": "easy",
+    "coin_cost": 2,
+    "preview": "Skills\n• Written and verbal communication\n• Basic computer and internet use\n• MS Word and spreadsheet basics\n• Teamwork and cooperation\n• Ti...",
+    "content": "Skills\n• Written and verbal communication\n• Basic computer and internet use\n• MS Word and spreadsheet basics\n• Teamwork and cooperation\n• Time management\n• Problem solving\n• Willingness to learn",
+    "bangla_explanation": "সিভির স্কিলস সেকশন—নিজের তথ্য অনুযায়ী placeholder অংশগুলো পরিবর্তন করে ব্যবহার করুন।",
+    "tags": [
+      "cv",
+      "job",
+      "career"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "cv_job_009",
+    "title_en": "CV Personal Information Section",
+    "title_bn": "সিভির ব্যক্তিগত তথ্য সেকশন",
+    "difficulty": "easy",
+    "coin_cost": 2,
+    "preview": "Personal Information\nFather’s Name: [Name]\nMother’s Name: [Name]\nDate of Birth: [Date]\nNationality: Bangladeshi\nMarital Status: [Status]\nPre...",
+    "content": "Personal Information\nFather’s Name: [Name]\nMother’s Name: [Name]\nDate of Birth: [Date]\nNationality: Bangladeshi\nMarital Status: [Status]\nPresent Address: [Address]\nPermanent Address: [Address]",
+    "bangla_explanation": "সিভির ব্যক্তিগত তথ্য সেকশন—নিজের তথ্য অনুযায়ী placeholder অংশগুলো পরিবর্তন করে ব্যবহার করুন।",
+    "tags": [
+      "cv",
+      "job",
+      "career"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "cv_job_010",
+    "title_en": "Interview Self-Introduction",
+    "title_bn": "ইন্টারভিউতে নিজের পরিচয়",
+    "difficulty": "easy",
+    "coin_cost": 2,
+    "preview": "Good morning. My name is [Your Name]. I have completed my education from [Institution]. I am interested in learning new skills and working r...",
+    "content": "Good morning. My name is [Your Name]. I have completed my education from [Institution]. I am interested in learning new skills and working responsibly. I consider myself punctual, cooperative and willing to improve. I am looking for an opportunity where I can contribute to the organization and develop professionally.",
+    "bangla_explanation": "ইন্টারভিউতে নিজের পরিচয়—নিজের তথ্য অনুযায়ী placeholder অংশগুলো পরিবর্তন করে ব্যবহার করুন।",
+    "tags": [
+      "cv",
+      "job",
+      "career"
+    ],
+    "is_free": false
+  }
+]

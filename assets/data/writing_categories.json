@@ -1,0 +1,65 @@
+[
+  {
+    "id": "paragraphs",
+    "title_en": "Paragraph Writing",
+    "title_bn": "প্যারাগ্রাফ রাইটিং",
+    "file": "paragraphs.json",
+    "icon": "article"
+  },
+  {
+    "id": "compositions",
+    "title_en": "Composition Writing",
+    "title_bn": "কম্পোজিশন রাইটিং",
+    "file": "compositions.json",
+    "icon": "description"
+  },
+  {
+    "id": "stories",
+    "title_en": "Story Writing",
+    "title_bn": "স্টোরি রাইটিং",
+    "file": "stories.json",
+    "icon": "auto_stories"
+  },
+  {
+    "id": "completing_stories",
+    "title_en": "Completing Story",
+    "title_bn": "কমপ্লিটিং স্টোরি",
+    "file": "completing_stories.json",
+    "icon": "history_edu"
+  },
+  {
+    "id": "dialogues",
+    "title_en": "Dialogue Writing",
+    "title_bn": "ডায়ালগ রাইটিং",
+    "file": "dialogues.json",
+    "icon": "forum"
+  },
+  {
+    "id": "letters",
+    "title_en": "Letter & Application",
+    "title_bn": "চিঠি ও আবেদন",
+    "file": "letters_applications.json",
+    "icon": "mail"
+  },
+  {
+    "id": "emails",
+    "title_en": "Email Writing",
+    "title_bn": "ইমেইল রাইটিং",
+    "file": "emails.json",
+    "icon": "alternate_email"
+  },
+  {
+    "id": "reports",
+    "title_en": "Report Writing",
+    "title_bn": "রিপোর্ট রাইটিং",
+    "file": "reports.json",
+    "icon": "newspaper"
+  },
+  {
+    "id": "cv_job",
+    "title_en": "CV & Job Writing",
+    "title_bn": "সিভি ও জব রাইটিং",
+    "file": "cv_job.json",
+    "icon": "work"
+  }
+]

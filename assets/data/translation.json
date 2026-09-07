@@ -1,0 +1,962 @@
+[
+  {
+    "id": "translation_001",
+    "bangla": "আমি প্রতিদিন ইংরেজি পড়ি।",
+    "english": "I study English every day.",
+    "difficulty": "easy",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_002",
+    "bangla": "সে স্কুলে যায়।",
+    "english": "He goes to school.",
+    "difficulty": "easy",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_003",
+    "bangla": "আমরা সময় নষ্ট করা উচিত নয়।",
+    "english": "We should not waste time.",
+    "difficulty": "easy",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_004",
+    "bangla": "তুমি কি আমাকে সাহায্য করবে?",
+    "english": "Will you help me?",
+    "difficulty": "easy",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_005",
+    "bangla": "আজ আকাশ পরিষ্কার।",
+    "english": "The sky is clear today.",
+    "difficulty": "easy",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_006",
+    "bangla": "বই আমাদের জ্ঞান বাড়ায়।",
+    "english": "Books increase our knowledge.",
+    "difficulty": "easy",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_007",
+    "bangla": "স্বাস্থ্যই সম্পদ।",
+    "english": "Health is wealth.",
+    "difficulty": "easy",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_008",
+    "bangla": "সময় খুব মূল্যবান।",
+    "english": "Time is very valuable.",
+    "difficulty": "easy",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_009",
+    "bangla": "গাছ আমাদের অক্সিজেন দেয়।",
+    "english": "Trees give us oxygen.",
+    "difficulty": "easy",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_010",
+    "bangla": "আমাদের পরিবেশ রক্ষা করা উচিত।",
+    "english": "We should protect our environment.",
+    "difficulty": "easy",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_011",
+    "bangla": "সে গতকাল বাজারে গিয়েছিল।",
+    "english": "He went to the market yesterday.",
+    "difficulty": "easy",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_012",
+    "bangla": "আমি কাজটি শেষ করেছি।",
+    "english": "I have completed the work.",
+    "difficulty": "easy",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_013",
+    "bangla": "তারা মাঠে খেলছে।",
+    "english": "They are playing in the field.",
+    "difficulty": "easy",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_014",
+    "bangla": "বৃষ্টি হলে আমরা ঘরে থাকব।",
+    "english": "If it rains, we will stay at home.",
+    "difficulty": "easy",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_015",
+    "bangla": "তুমি কোথায় থাকো?",
+    "english": "Where do you live?",
+    "difficulty": "easy",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_016",
+    "bangla": "সে খুব মনোযোগ দিয়ে পড়ে।",
+    "english": "She studies very attentively.",
+    "difficulty": "easy",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_017",
+    "bangla": "আমাদের নিয়মিত ব্যায়াম করা উচিত।",
+    "english": "We should exercise regularly.",
+    "difficulty": "easy",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_018",
+    "bangla": "সততা একটি মহৎ গুণ।",
+    "english": "Honesty is a noble quality.",
+    "difficulty": "easy",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_019",
+    "bangla": "পরিশ্রম সাফল্যের চাবিকাঠি।",
+    "english": "Industry is the key to success.",
+    "difficulty": "easy",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_020",
+    "bangla": "একতা শক্তি।",
+    "english": "Unity is strength.",
+    "difficulty": "easy",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_021",
+    "bangla": "আজ আমি ব্যস্ত।",
+    "english": "I am busy today.",
+    "difficulty": "easy",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_022",
+    "bangla": "সে আমাকে একটি বই দিয়েছে।",
+    "english": "He gave me a book.",
+    "difficulty": "easy",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_023",
+    "bangla": "আমরা আগামীকাল ভ্রমণে যাব।",
+    "english": "We will go on a trip tomorrow.",
+    "difficulty": "easy",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_024",
+    "bangla": "তুমি কি ইংরেজি বলতে পারো?",
+    "english": "Can you speak English?",
+    "difficulty": "easy",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_025",
+    "bangla": "আমার একটি নতুন কলম আছে।",
+    "english": "I have a new pen.",
+    "difficulty": "easy",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_026",
+    "bangla": "শিক্ষক আমাদের পাঠ বুঝিয়ে দিলেন।",
+    "english": "The teacher explained the lesson to us.",
+    "difficulty": "easy",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_027",
+    "bangla": "আমি সকালে তাড়াতাড়ি উঠি।",
+    "english": "I get up early in the morning.",
+    "difficulty": "easy",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_028",
+    "bangla": "পানি ছাড়া আমরা বাঁচতে পারি না।",
+    "english": "We cannot live without water.",
+    "difficulty": "easy",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_029",
+    "bangla": "সবাই শান্তি চায়।",
+    "english": "Everyone wants peace.",
+    "difficulty": "easy",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_030",
+    "bangla": "ভালো অভ্যাস মানুষকে সফল করে।",
+    "english": "Good habits make a person successful.",
+    "difficulty": "easy",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_031",
+    "bangla": "সে কখনো মিথ্যা বলে না।",
+    "english": "He never tells a lie.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_032",
+    "bangla": "আজ খুব গরম।",
+    "english": "It is very hot today.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_033",
+    "bangla": "তুমি আমার সবচেয়ে ভালো বন্ধু।",
+    "english": "You are my best friend.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_034",
+    "bangla": "আমি একটি চিঠি লিখছি।",
+    "english": "I am writing a letter.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_035",
+    "bangla": "তারা কাজটি করতে পারবে।",
+    "english": "They will be able to do the work.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_036",
+    "bangla": "আমাদের নিয়ম মেনে চলা উচিত।",
+    "english": "We should follow the rules.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_037",
+    "bangla": "সে দুই ঘণ্টা ধরে পড়ছে।",
+    "english": "He has been studying for two hours.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_038",
+    "bangla": "তুমি কেন দেরি করেছ?",
+    "english": "Why are you late?",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_039",
+    "bangla": "এই বইটি খুব উপকারী।",
+    "english": "This book is very useful.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_040",
+    "bangla": "দয়া করে দরজাটি বন্ধ করো।",
+    "english": "Please close the door.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_041",
+    "bangla": "আমি তাকে চিনি না।",
+    "english": "I do not know him.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_042",
+    "bangla": "তুমি কি আজ স্কুলে যাবে?",
+    "english": "Will you go to school today?",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_043",
+    "bangla": "সে আমার চেয়ে লম্বা।",
+    "english": "He is taller than me.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_044",
+    "bangla": "বাংলাদেশ একটি সুন্দর দেশ।",
+    "english": "Bangladesh is a beautiful country.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_045",
+    "bangla": "আমাদের নদীগুলো রক্ষা করতে হবে।",
+    "english": "We must protect our rivers.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_046",
+    "bangla": "প্রযুক্তি জীবনকে সহজ করেছে।",
+    "english": "Technology has made life easier.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_047",
+    "bangla": "ইন্টারনেট সাবধানে ব্যবহার করা উচিত।",
+    "english": "The internet should be used carefully.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_048",
+    "bangla": "আমি তোমার সাথে একমত।",
+    "english": "I agree with you.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_049",
+    "bangla": "চেষ্টা করলে তুমি পারবে।",
+    "english": "You can do it if you try.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_050",
+    "bangla": "জ্ঞানই শক্তি।",
+    "english": "Knowledge is power.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_051",
+    "bangla": "আমি প্রতিদিন নতুন শব্দ শিখি।",
+    "english": "I learn new words every day.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_052",
+    "bangla": "সে খুব সুন্দর ইংরেজি লিখে।",
+    "english": "She writes English very well.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_053",
+    "bangla": "আমরা একসাথে পড়াশোনা করি।",
+    "english": "We study together.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_054",
+    "bangla": "তারা সময়মতো পৌঁছেছিল।",
+    "english": "They arrived on time.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_055",
+    "bangla": "তোমার পরামর্শটি খুব উপকারী।",
+    "english": "Your advice is very useful.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_056",
+    "bangla": "পরীক্ষার আগে ভালোভাবে প্রস্তুতি নাও।",
+    "english": "Prepare well before the examination.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_057",
+    "bangla": "আমাদের সত্য কথা বলা উচিত।",
+    "english": "We should tell the truth.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_058",
+    "bangla": "শিশুরা মাঠে আনন্দ করে খেলছে।",
+    "english": "The children are playing happily in the field.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_059",
+    "bangla": "আমি এখন একটি গল্প পড়ছি।",
+    "english": "I am reading a story now.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_060",
+    "bangla": "সে কাজটি করতে চেষ্টা করেছিল।",
+    "english": "He tried to do the work.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_061",
+    "bangla": "তুমি নিয়মিত অনুশীলন করলে উন্নতি করবে।",
+    "english": "You will improve if you practice regularly.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_062",
+    "bangla": "আজ আমাদের কোনো ক্লাস নেই।",
+    "english": "We have no class today.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_063",
+    "bangla": "আমার ভাই ঢাকায় কাজ করে।",
+    "english": "My brother works in Dhaka.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_064",
+    "bangla": "আমরা গত সপ্তাহে একটি বইমেলায় গিয়েছিলাম।",
+    "english": "We went to a book fair last week.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_065",
+    "bangla": "সে আমাকে অপেক্ষা করতে বলল।",
+    "english": "He told me to wait.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_066",
+    "bangla": "আমি বিষয়টি বুঝতে পারিনি।",
+    "english": "I could not understand the matter.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_067",
+    "bangla": "তারা আগামী মাসে পরীক্ষা দেবে।",
+    "english": "They will take the examination next month.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_068",
+    "bangla": "আমাদের দেশকে ভালোবাসা উচিত।",
+    "english": "We should love our country.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_069",
+    "bangla": "পরিষ্কার-পরিচ্ছন্নতা সুস্বাস্থ্যের জন্য গুরুত্বপূর্ণ।",
+    "english": "Cleanliness is important for good health.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_070",
+    "bangla": "কেউই ভুলের ঊর্ধ্বে নয়।",
+    "english": "Nobody is above mistakes.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_071",
+    "bangla": "আজকের কাজ আজই শেষ করো।",
+    "english": "Finish today’s work today.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_072",
+    "bangla": "শিক্ষা জাতির মেরুদণ্ড।",
+    "english": "Education is the backbone of a nation.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_073",
+    "bangla": "সে আমার কথা মন দিয়ে শুনল।",
+    "english": "She listened to me attentively.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_074",
+    "bangla": "আমি ইংরেজিতে কথা বলার চেষ্টা করছি।",
+    "english": "I am trying to speak in English.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_075",
+    "bangla": "বইটি পড়ে আমি অনেক কিছু শিখেছি।",
+    "english": "I learned many things by reading the book.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_076",
+    "bangla": "আমাদের দুর্বলদের সাহায্য করা উচিত।",
+    "english": "We should help the weak.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_077",
+    "bangla": "সে কখন এখানে আসবে?",
+    "english": "When will he come here?",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_078",
+    "bangla": "আজকের আবহাওয়া গতকালের চেয়ে ভালো।",
+    "english": "The weather today is better than yesterday.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_079",
+    "bangla": "আমি তোমার সাফল্য কামনা করি।",
+    "english": "I wish you success.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "translation_080",
+    "bangla": "ভালো কাজ কখনো বৃথা যায় না।",
+    "english": "A good deed never goes in vain.",
+    "difficulty": "medium",
+    "coin_cost": 1,
+    "tags": [
+      "translation",
+      "sentence"
+    ],
+    "is_free": false
+  }
+]

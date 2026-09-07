@@ -1,0 +1,38 @@
+[
+  {
+    "id": "writing",
+    "title_en": "Writing",
+    "title_bn": "রাইটিং",
+    "icon": "edit_note"
+  },
+  {
+    "id": "grammar",
+    "title_en": "Grammar",
+    "title_bn": "গ্রামার",
+    "icon": "school"
+  },
+  {
+    "id": "vocabulary",
+    "title_en": "Vocabulary",
+    "title_bn": "ভোকাবুলারি",
+    "icon": "menu_book"
+  },
+  {
+    "id": "translation",
+    "title_en": "Translation",
+    "title_bn": "অনুবাদ",
+    "icon": "translate"
+  },
+  {
+    "id": "practice",
+    "title_en": "Practice",
+    "title_bn": "প্র্যাকটিস",
+    "icon": "quiz"
+  },
+  {
+    "id": "saved",
+    "title_en": "Saved",
+    "title_bn": "সেভ করা",
+    "icon": "bookmark"
+  }
+]

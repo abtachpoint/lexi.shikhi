@@ -1,0 +1,81 @@
+import 'package:flutter/material.dart';
+import '../app_state.dart';
+import 'home_screen.dart';
+import 'practice_screen.dart';
+import 'saved_screen.dart';
+import 'profile_screen.dart';
+import 'wallet_screen.dart';
+
+class HomeShell extends StatefulWidget {
+  const HomeShell({super.key, required this.appState});
+  final AppState appState;
+
+  @override
+  State<HomeShell> createState() => _HomeShellState();
+}
+
+class _HomeShellState extends State<HomeShell> {
+  int index = 0;
+
+  @override
+  Widget build(BuildContext context) {
+    final state = widget.appState;
+    final pages = [
+      HomeScreen(appState: state),
+      PracticeScreen(appState: state),
+      SavedScreen(appState: state),
+      ProfileScreen(appState: state),
+    ];
+    final titles = [
+      'LexiShikhi',
+      state.t('প্র্যাকটিস', 'Practice'),
+      state.t('সেভ করা', 'Saved'),
+      state.t('প্রোফাইল', 'Profile'),
+    ];
+
+    return Scaffold(
+      appBar: AppBar(
+        title: Text(titles[index], style: const TextStyle(fontWeight: FontWeight.w900)),
+        actions: [
+          Padding(
+            padding: const EdgeInsets.only(right: 12),
+            child: ActionChip(
+              avatar: const Icon(Icons.monetization_on_rounded, size: 19),
+              label: Text('${state.coins}', style: const TextStyle(fontWeight: FontWeight.w900)),
+              onPressed: () => Navigator.of(context).push(
+                MaterialPageRoute(builder: (_) => WalletScreen(appState: state)),
+              ),
+            ),
+          ),
+        ],
+      ),
+      body: pages[index],
+      bottomNavigationBar: NavigationBar(
+        selectedIndex: index,
+        onDestinationSelected: (value) => setState(() => index = value),
+        destinations: [
+          NavigationDestination(
+            icon: const Icon(Icons.home_outlined),
+            selectedIcon: const Icon(Icons.home_rounded),
+            label: state.t('হোম', 'Home'),
+          ),
+          NavigationDestination(
+            icon: const Icon(Icons.quiz_outlined),
+            selectedIcon: const Icon(Icons.quiz_rounded),
+            label: state.t('প্র্যাকটিস', 'Practice'),
+          ),
+          NavigationDestination(
+            icon: const Icon(Icons.bookmark_border),
+            selectedIcon: const Icon(Icons.bookmark),
+            label: state.t('সেভ', 'Saved'),
+          ),
+          NavigationDestination(
+            icon: const Icon(Icons.person_outline),
+            selectedIcon: const Icon(Icons.person),
+            label: state.t('প্রোফাইল', 'Profile'),
+          ),
+        ],
+      ),
+    );
+  }
+}

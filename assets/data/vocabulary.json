@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "vocab_001",
+    "word": "achieve",
+    "meaning_bn": "অর্জন করা",
+    "example": "She worked hard to achieve her goal.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_002",
+    "word": "ability",
+    "meaning_bn": "সক্ষমতা",
+    "example": "Practice improves your ability.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_003",
+    "word": "accept",
+    "meaning_bn": "গ্রহণ করা",
+    "example": "Please accept my apology.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_004",
+    "word": "active",
+    "meaning_bn": "সক্রিয়",
+    "example": "He is active in class.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_005",
+    "word": "advice",
+    "meaning_bn": "পরামর্শ",
+    "example": "The teacher gave useful advice.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_006",
+    "word": "affect",
+    "meaning_bn": "প্রভাবিত করা",
+    "example": "Weather can affect travel.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_007",
+    "word": "allow",
+    "meaning_bn": "অনুমতি দেওয়া",
+    "example": "They allow students to use the library.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_008",
+    "word": "answer",
+    "meaning_bn": "উত্তর",
+    "example": "Write the correct answer.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_009",
+    "word": "appear",
+    "meaning_bn": "দেখা দেওয়া",
+    "example": "Stars appear at night.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_010",
+    "word": "apply",
+    "meaning_bn": "আবেদন করা",
+    "example": "You can apply for the course.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_011",
+    "word": "arrive",
+    "meaning_bn": "পৌঁছানো",
+    "example": "We arrived on time.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_012",
+    "word": "avoid",
+    "meaning_bn": "এড়িয়ে চলা",
+    "example": "Avoid unnecessary mistakes.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_013",
+    "word": "balance",
+    "meaning_bn": "ভারসাম্য",
+    "example": "Keep a balance between study and rest.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_014",
+    "word": "benefit",
+    "meaning_bn": "উপকার",
+    "example": "Reading has many benefits.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_015",
+    "word": "brave",
+    "meaning_bn": "সাহসী",
+    "example": "The brave firefighter helped people.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_016",
+    "word": "build",
+    "meaning_bn": "নির্মাণ করা",
+    "example": "They want to build a bridge.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_017",
+    "word": "careful",
+    "meaning_bn": "সতর্ক",
+    "example": "Be careful on the road.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_018",
+    "word": "change",
+    "meaning_bn": "পরিবর্তন",
+    "example": "Small habits can create change.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_019",
+    "word": "choice",
+    "meaning_bn": "পছন্দ",
+    "example": "It was a difficult choice.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_020",
+    "word": "clean",
+    "meaning_bn": "পরিষ্কার",
+    "example": "Keep your room clean.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_021",
+    "word": "communicate",
+    "meaning_bn": "যোগাযোগ করা",
+    "example": "English helps us communicate internationally.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_022",
+    "word": "complete",
+    "meaning_bn": "সম্পূর্ণ করা",
+    "example": "Complete the task today.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_023",
+    "word": "confidence",
+    "meaning_bn": "আত্মবিশ্বাস",
+    "example": "Practice builds confidence.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_024",
+    "word": "consider",
+    "meaning_bn": "বিবেচনা করা",
+    "example": "Consider all the options.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_025",
+    "word": "create",
+    "meaning_bn": "তৈরি করা",
+    "example": "Students can create useful projects.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_026",
+    "word": "danger",
+    "meaning_bn": "বিপদ",
+    "example": "Smoking creates health danger.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_027",
+    "word": "decide",
+    "meaning_bn": "সিদ্ধান্ত নেওয়া",
+    "example": "Think before you decide.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_028",
+    "word": "develop",
+    "meaning_bn": "উন্নত করা",
+    "example": "Reading develops vocabulary.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_029",
+    "word": "different",
+    "meaning_bn": "ভিন্ন",
+    "example": "The two ideas are different.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_030",
+    "word": "difficult",
+    "meaning_bn": "কঠিন",
+    "example": "The question is difficult.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_031",
+    "word": "education",
+    "meaning_bn": "শিক্ষা",
+    "example": "Education changes lives.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_032",
+    "word": "effort",
+    "meaning_bn": "প্রচেষ্টা",
+    "example": "Success requires effort.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_033",
+    "word": "environment",
+    "meaning_bn": "পরিবেশ",
+    "example": "We should protect the environment.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_034",
+    "word": "example",
+    "meaning_bn": "উদাহরণ",
+    "example": "Give an example.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_035",
+    "word": "experience",
+    "meaning_bn": "অভিজ্ঞতা",
+    "example": "Travel gives us experience.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_036",
+    "word": "explain",
+    "meaning_bn": "ব্যাখ্যা করা",
+    "example": "Please explain the rule.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_037",
+    "word": "future",
+    "meaning_bn": "ভবিষ্যৎ",
+    "example": "Plan for your future.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_038",
+    "word": "goal",
+    "meaning_bn": "লক্ষ্য",
+    "example": "Set a clear goal.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_039",
+    "word": "habit",
+    "meaning_bn": "অভ্যাস",
+    "example": "Reading is a good habit.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_040",
+    "word": "helpful",
+    "meaning_bn": "সহায়ক",
+    "example": "This guide is helpful.",
+    "level": "basic",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_041",
+    "word": "honest",
+    "meaning_bn": "সৎ",
+    "example": "An honest person earns trust.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_042",
+    "word": "important",
+    "meaning_bn": "গুরুত্বপূর্ণ",
+    "example": "Time is important.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_043",
+    "word": "improve",
+    "meaning_bn": "উন্নতি করা",
+    "example": "Practice can improve your English.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_044",
+    "word": "include",
+    "meaning_bn": "অন্তর্ভুক্ত করা",
+    "example": "The course includes grammar.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_045",
+    "word": "knowledge",
+    "meaning_bn": "জ্ঞান",
+    "example": "Books increase knowledge.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_046",
+    "word": "language",
+    "meaning_bn": "ভাষা",
+    "example": "English is an international language.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_047",
+    "word": "learn",
+    "meaning_bn": "শেখা",
+    "example": "We learn from experience.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_048",
+    "word": "manage",
+    "meaning_bn": "পরিচালনা করা",
+    "example": "Learn to manage your time.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_049",
+    "word": "necessary",
+    "meaning_bn": "প্রয়োজনীয়",
+    "example": "Sleep is necessary for health.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_050",
+    "word": "opportunity",
+    "meaning_bn": "সুযোগ",
+    "example": "Education creates opportunity.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_051",
+    "word": "practice",
+    "meaning_bn": "অনুশীলন",
+    "example": "Daily practice is useful.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_052",
+    "word": "prepare",
+    "meaning_bn": "প্রস্তুত করা",
+    "example": "Prepare well for the exam.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_053",
+    "word": "prevent",
+    "meaning_bn": "প্রতিরোধ করা",
+    "example": "Awareness can prevent accidents.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_054",
+    "word": "progress",
+    "meaning_bn": "অগ্রগতি",
+    "example": "You are making progress.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_055",
+    "word": "protect",
+    "meaning_bn": "রক্ষা করা",
+    "example": "Trees protect the environment.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_056",
+    "word": "reduce",
+    "meaning_bn": "কমানো",
+    "example": "We should reduce waste.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_057",
+    "word": "regular",
+    "meaning_bn": "নিয়মিত",
+    "example": "Regular study brings success.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_058",
+    "word": "responsible",
+    "meaning_bn": "দায়িত্বশীল",
+    "example": "Be a responsible citizen.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_059",
+    "word": "result",
+    "meaning_bn": "ফলাফল",
+    "example": "Hard work brings good results.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_060",
+    "word": "safe",
+    "meaning_bn": "নিরাপদ",
+    "example": "Use a safe password.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_061",
+    "word": "skill",
+    "meaning_bn": "দক্ষতা",
+    "example": "Writing is an important skill.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_062",
+    "word": "solution",
+    "meaning_bn": "সমাধান",
+    "example": "We need a practical solution.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_063",
+    "word": "success",
+    "meaning_bn": "সাফল্য",
+    "example": "Discipline supports success.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_064",
+    "word": "support",
+    "meaning_bn": "সহায়তা করা",
+    "example": "Friends should support each other.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_065",
+    "word": "useful",
+    "meaning_bn": "উপকারী",
+    "example": "The internet can be useful.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_066",
+    "word": "value",
+    "meaning_bn": "মূল্য",
+    "example": "We should understand the value of time.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_067",
+    "word": "wise",
+    "meaning_bn": "বুদ্ধিমান",
+    "example": "A wise person thinks before acting.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_068",
+    "word": "wonderful",
+    "meaning_bn": "চমৎকার",
+    "example": "It was a wonderful experience.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_069",
+    "word": "work",
+    "meaning_bn": "কাজ",
+    "example": "Finish your work carefully.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_070",
+    "word": "accurate",
+    "meaning_bn": "সঠিক",
+    "example": "The information must be accurate.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_071",
+    "word": "advantage",
+    "meaning_bn": "সুবিধা",
+    "example": "Online learning has many advantages.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_072",
+    "word": "aware",
+    "meaning_bn": "সচেতন",
+    "example": "Students should be aware of cyber safety.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_073",
+    "word": "behave",
+    "meaning_bn": "আচরণ করা",
+    "example": "We should behave politely.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_074",
+    "word": "challenge",
+    "meaning_bn": "চ্যালেঞ্জ",
+    "example": "Every challenge teaches us something.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_075",
+    "word": "citizen",
+    "meaning_bn": "নাগরিক",
+    "example": "A good citizen follows the law.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_076",
+    "word": "compare",
+    "meaning_bn": "তুলনা করা",
+    "example": "Compare the two answers.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_077",
+    "word": "continue",
+    "meaning_bn": "চালিয়ে যাওয়া",
+    "example": "Continue your practice every day.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_078",
+    "word": "culture",
+    "meaning_bn": "সংস্কৃতি",
+    "example": "Bangladesh has a rich culture.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_079",
+    "word": "curious",
+    "meaning_bn": "কৌতূহলী",
+    "example": "A curious student asks questions.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_080",
+    "word": "depend",
+    "meaning_bn": "নির্ভর করা",
+    "example": "Success does not depend on luck alone.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_081",
+    "word": "effective",
+    "meaning_bn": "কার্যকর",
+    "example": "This is an effective study method.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_082",
+    "word": "encourage",
+    "meaning_bn": "উৎসাহ দেওয়া",
+    "example": "Teachers encourage students to read.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_083",
+    "word": "essential",
+    "meaning_bn": "অপরিহার্য",
+    "example": "Clean water is essential for life.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_084",
+    "word": "focus",
+    "meaning_bn": "মনোযোগ দেওয়া",
+    "example": "Focus on one task at a time.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_085",
+    "word": "generous",
+    "meaning_bn": "উদার",
+    "example": "A generous person helps others.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_086",
+    "word": "gradually",
+    "meaning_bn": "ধীরে ধীরে",
+    "example": "Your English will improve gradually.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_087",
+    "word": "harmful",
+    "meaning_bn": "ক্ষতিকর",
+    "example": "Smoking is harmful to health.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_088",
+    "word": "identify",
+    "meaning_bn": "শনাক্ত করা",
+    "example": "Identify the main idea.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_089",
+    "word": "independent",
+    "meaning_bn": "স্বনির্ভর",
+    "example": "Education helps people become independent.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_090",
+    "word": "influence",
+    "meaning_bn": "প্রভাব",
+    "example": "Friends can have a strong influence.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_091",
+    "word": "information",
+    "meaning_bn": "তথ্য",
+    "example": "The internet provides information.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_092",
+    "word": "journey",
+    "meaning_bn": "ভ্রমণ",
+    "example": "The train journey was enjoyable.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_093",
+    "word": "maintain",
+    "meaning_bn": "বজায় রাখা",
+    "example": "Maintain a regular study routine.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_094",
+    "word": "method",
+    "meaning_bn": "পদ্ধতি",
+    "example": "Choose a simple learning method.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_095",
+    "word": "observe",
+    "meaning_bn": "পর্যবেক্ষণ করা",
+    "example": "Observe how the sentence is formed.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_096",
+    "word": "patient",
+    "meaning_bn": "ধৈর্যশীল",
+    "example": "Be patient while learning.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_097",
+    "word": "prefer",
+    "meaning_bn": "পছন্দ করা",
+    "example": "I prefer reading in the morning.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_098",
+    "word": "quality",
+    "meaning_bn": "গুণমান",
+    "example": "Quality is more important than quantity.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_099",
+    "word": "require",
+    "meaning_bn": "প্রয়োজন হওয়া",
+    "example": "Good writing requires practice.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  },
+  {
+    "id": "vocab_100",
+    "word": "respect",
+    "meaning_bn": "সম্মান করা",
+    "example": "We should respect our teachers.",
+    "level": "intermediate",
+    "coin_cost": 1,
+    "tags": [
+      "vocabulary"
+    ],
+    "is_free": false
+  }
+]

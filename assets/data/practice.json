@@ -1,0 +1,1827 @@
+[
+  {
+    "id": "practice_grammar_001",
+    "type": "mcq",
+    "category": "grammar",
+    "title": "Parts of Speech Practice",
+    "question": "Which option is related to Parts of Speech?",
+    "options": [
+      "Parts of Speech",
+      "Paragraph Writing",
+      "Report Writing",
+      "Story Writing"
+    ],
+    "answer_index": 0,
+    "explanation": "Parts of speech classify words by their function in a sentence.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_grammar_002",
+    "type": "mcq",
+    "category": "grammar",
+    "title": "Tense Practice",
+    "question": "Which option is related to Tense?",
+    "options": [
+      "Tense",
+      "Paragraph Writing",
+      "Report Writing",
+      "Story Writing"
+    ],
+    "answer_index": 0,
+    "explanation": "Tense shows the time of an action or state.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_grammar_003",
+    "type": "mcq",
+    "category": "grammar",
+    "title": "Article Practice",
+    "question": "Which option is related to Article?",
+    "options": [
+      "Article",
+      "Paragraph Writing",
+      "Report Writing",
+      "Story Writing"
+    ],
+    "answer_index": 0,
+    "explanation": "Articles are a, an, and the. They come before nouns.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_grammar_004",
+    "type": "mcq",
+    "category": "grammar",
+    "title": "Preposition Practice",
+    "question": "Which option is related to Preposition?",
+    "options": [
+      "Preposition",
+      "Paragraph Writing",
+      "Report Writing",
+      "Story Writing"
+    ],
+    "answer_index": 0,
+    "explanation": "A preposition shows relation of place, time, direction, or other connection.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_grammar_005",
+    "type": "mcq",
+    "category": "grammar",
+    "title": "Right Form of Verbs Practice",
+    "question": "Which option is related to Right Form of Verbs?",
+    "options": [
+      "Right Form of Verbs",
+      "Paragraph Writing",
+      "Report Writing",
+      "Story Writing"
+    ],
+    "answer_index": 0,
+    "explanation": "The form of a verb changes according to tense, subject, and sentence structure.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_grammar_006",
+    "type": "mcq",
+    "category": "grammar",
+    "title": "Subject-Verb Agreement Practice",
+    "question": "Which option is related to Subject-Verb Agreement?",
+    "options": [
+      "Subject-Verb Agreement",
+      "Paragraph Writing",
+      "Report Writing",
+      "Story Writing"
+    ],
+    "answer_index": 0,
+    "explanation": "A verb should agree with its subject in number and person.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_grammar_007",
+    "type": "mcq",
+    "category": "grammar",
+    "title": "Voice Change Practice",
+    "question": "Which option is related to Voice Change?",
+    "options": [
+      "Voice Change",
+      "Paragraph Writing",
+      "Report Writing",
+      "Story Writing"
+    ],
+    "answer_index": 0,
+    "explanation": "Voice shows whether the subject performs or receives the action.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_grammar_008",
+    "type": "mcq",
+    "category": "grammar",
+    "title": "Narration Practice",
+    "question": "Which option is related to Narration?",
+    "options": [
+      "Narration",
+      "Paragraph Writing",
+      "Report Writing",
+      "Story Writing"
+    ],
+    "answer_index": 0,
+    "explanation": "Narration changes direct speech into indirect speech or vice versa.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_grammar_009",
+    "type": "mcq",
+    "category": "grammar",
+    "title": "Degree Change Practice",
+    "question": "Which option is related to Degree Change?",
+    "options": [
+      "Degree Change",
+      "Paragraph Writing",
+      "Report Writing",
+      "Story Writing"
+    ],
+    "answer_index": 0,
+    "explanation": "Adjectives can be positive, comparative, or superlative.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_grammar_010",
+    "type": "mcq",
+    "category": "grammar",
+    "title": "Sentence Transformation Practice",
+    "question": "Which option is related to Sentence Transformation?",
+    "options": [
+      "Sentence Transformation",
+      "Paragraph Writing",
+      "Report Writing",
+      "Story Writing"
+    ],
+    "answer_index": 0,
+    "explanation": "A sentence can often change form without changing its basic meaning.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_grammar_011",
+    "type": "mcq",
+    "category": "grammar",
+    "title": "Completing Sentence Practice",
+    "question": "Which option is related to Completing Sentence?",
+    "options": [
+      "Completing Sentence",
+      "Paragraph Writing",
+      "Report Writing",
+      "Story Writing"
+    ],
+    "answer_index": 0,
+    "explanation": "A sentence should be completed with a logically and grammatically correct clause.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_grammar_012",
+    "type": "mcq",
+    "category": "grammar",
+    "title": "Punctuation Practice",
+    "question": "Which option is related to Punctuation?",
+    "options": [
+      "Punctuation",
+      "Paragraph Writing",
+      "Report Writing",
+      "Story Writing"
+    ],
+    "answer_index": 0,
+    "explanation": "Punctuation marks organize written language and clarify meaning.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_grammar_013",
+    "type": "mcq",
+    "category": "grammar",
+    "title": "Synonym Practice",
+    "question": "Which option is related to Synonym?",
+    "options": [
+      "Synonym",
+      "Paragraph Writing",
+      "Report Writing",
+      "Story Writing"
+    ],
+    "answer_index": 0,
+    "explanation": "A synonym is a word with the same or nearly the same meaning.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_grammar_014",
+    "type": "mcq",
+    "category": "grammar",
+    "title": "Antonym Practice",
+    "question": "Which option is related to Antonym?",
+    "options": [
+      "Antonym",
+      "Paragraph Writing",
+      "Report Writing",
+      "Story Writing"
+    ],
+    "answer_index": 0,
+    "explanation": "An antonym is a word with an opposite meaning.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_grammar_015",
+    "type": "mcq",
+    "category": "grammar",
+    "title": "Prefix and Suffix Practice",
+    "question": "Which option is related to Prefix and Suffix?",
+    "options": [
+      "Prefix and Suffix",
+      "Paragraph Writing",
+      "Report Writing",
+      "Story Writing"
+    ],
+    "answer_index": 0,
+    "explanation": "Prefixes come before roots; suffixes come after roots.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_001",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'achieve'?",
+    "options": [
+      "দক্ষতা",
+      "যোগাযোগ করা",
+      "পরিষ্কার",
+      "অর্জন করা"
+    ],
+    "answer_index": 3,
+    "explanation": "She worked hard to achieve her goal.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_002",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'ability'?",
+    "options": [
+      "যোগাযোগ করা",
+      "সহায়ক",
+      "সক্ষমতা",
+      "কমানো"
+    ],
+    "answer_index": 2,
+    "explanation": "Practice improves your ability.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_003",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'accept'?",
+    "options": [
+      "গ্রহণ করা",
+      "সক্রিয়",
+      "গুরুত্বপূর্ণ",
+      "উত্তর"
+    ],
+    "answer_index": 0,
+    "explanation": "Please accept my apology.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_004",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'active'?",
+    "options": [
+      "উন্নত করা",
+      "জ্ঞান",
+      "অগ্রগতি",
+      "সক্রিয়"
+    ],
+    "answer_index": 3,
+    "explanation": "He is active in class.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_005",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'advice'?",
+    "options": [
+      "ভারসাম্য",
+      "পরামর্শ",
+      "বিবেচনা করা",
+      "সুযোগ"
+    ],
+    "answer_index": 1,
+    "explanation": "The teacher gave useful advice.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_006",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'affect'?",
+    "options": [
+      "উন্নত করা",
+      "কাজ",
+      "প্রভাবিত করা",
+      "সহায়তা করা"
+    ],
+    "answer_index": 2,
+    "explanation": "Weather can affect travel.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_007",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'allow'?",
+    "options": [
+      "অনুমতি দেওয়া",
+      "সক্রিয়",
+      "বিপদ",
+      "ভাষা"
+    ],
+    "answer_index": 0,
+    "explanation": "They allow students to use the library.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_008",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'answer'?",
+    "options": [
+      "উত্তর",
+      "পছন্দ",
+      "জ্ঞান",
+      "দক্ষতা"
+    ],
+    "answer_index": 0,
+    "explanation": "Write the correct answer.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_009",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'appear'?",
+    "options": [
+      "উপকার",
+      "অর্জন করা",
+      "সিদ্ধান্ত নেওয়া",
+      "দেখা দেওয়া"
+    ],
+    "answer_index": 3,
+    "explanation": "Stars appear at night.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_010",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'apply'?",
+    "options": [
+      "নির্মাণ করা",
+      "প্রস্তুত করা",
+      "আবেদন করা",
+      "ভারসাম্য"
+    ],
+    "answer_index": 2,
+    "explanation": "You can apply for the course.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_011",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'arrive'?",
+    "options": [
+      "সুযোগ",
+      "পৌঁছানো",
+      "সমাধান",
+      "দক্ষতা"
+    ],
+    "answer_index": 1,
+    "explanation": "We arrived on time.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_012",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'avoid'?",
+    "options": [
+      "এড়িয়ে চলা",
+      "উদাহরণ",
+      "অভিজ্ঞতা",
+      "গুরুত্বপূর্ণ"
+    ],
+    "answer_index": 0,
+    "explanation": "Avoid unnecessary mistakes.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_013",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'balance'?",
+    "options": [
+      "উত্তর",
+      "ভারসাম্য",
+      "যোগাযোগ করা",
+      "উদাহরণ"
+    ],
+    "answer_index": 1,
+    "explanation": "Keep a balance between study and rest.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_014",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'benefit'?",
+    "options": [
+      "কঠিন",
+      "ভাষা",
+      "উপকার",
+      "প্রস্তুত করা"
+    ],
+    "answer_index": 2,
+    "explanation": "Reading has many benefits.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_015",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'brave'?",
+    "options": [
+      "পরিষ্কার",
+      "অগ্রগতি",
+      "সক্ষমতা",
+      "সাহসী"
+    ],
+    "answer_index": 3,
+    "explanation": "The brave firefighter helped people.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_016",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'build'?",
+    "options": [
+      "নির্মাণ করা",
+      "প্রচেষ্টা",
+      "উপকারী",
+      "সক্রিয়"
+    ],
+    "answer_index": 0,
+    "explanation": "They want to build a bridge.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_017",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'careful'?",
+    "options": [
+      "ফলাফল",
+      "বিপদ",
+      "যোগাযোগ করা",
+      "সতর্ক"
+    ],
+    "answer_index": 3,
+    "explanation": "Be careful on the road.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_018",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'change'?",
+    "options": [
+      "এড়িয়ে চলা",
+      "পরিবর্তন",
+      "ফলাফল",
+      "অর্জন করা"
+    ],
+    "answer_index": 1,
+    "explanation": "Small habits can create change.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_019",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'choice'?",
+    "options": [
+      "পছন্দ",
+      "কাজ",
+      "পৌঁছানো",
+      "অগ্রগতি"
+    ],
+    "answer_index": 0,
+    "explanation": "It was a difficult choice.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_020",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'clean'?",
+    "options": [
+      "পৌঁছানো",
+      "অনুশীলন",
+      "অর্জন করা",
+      "পরিষ্কার"
+    ],
+    "answer_index": 3,
+    "explanation": "Keep your room clean.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_021",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'communicate'?",
+    "options": [
+      "বিপদ",
+      "এড়িয়ে চলা",
+      "যোগাযোগ করা",
+      "বুদ্ধিমান"
+    ],
+    "answer_index": 2,
+    "explanation": "English helps us communicate internationally.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_022",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'complete'?",
+    "options": [
+      "অন্তর্ভুক্ত করা",
+      "ফলাফল",
+      "অভিজ্ঞতা",
+      "সম্পূর্ণ করা"
+    ],
+    "answer_index": 3,
+    "explanation": "Complete the task today.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_023",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'confidence'?",
+    "options": [
+      "গ্রহণ করা",
+      "আত্মবিশ্বাস",
+      "পরিষ্কার",
+      "প্রচেষ্টা"
+    ],
+    "answer_index": 1,
+    "explanation": "Practice builds confidence.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_024",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'consider'?",
+    "options": [
+      "আত্মবিশ্বাস",
+      "বিবেচনা করা",
+      "অভিজ্ঞতা",
+      "সহায়তা করা"
+    ],
+    "answer_index": 1,
+    "explanation": "Consider all the options.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_025",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'create'?",
+    "options": [
+      "সাহসী",
+      "নির্মাণ করা",
+      "তৈরি করা",
+      "গ্রহণ করা"
+    ],
+    "answer_index": 2,
+    "explanation": "Students can create useful projects.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_026",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'danger'?",
+    "options": [
+      "ব্যাখ্যা করা",
+      "উন্নত করা",
+      "বিপদ",
+      "গুরুত্বপূর্ণ"
+    ],
+    "answer_index": 2,
+    "explanation": "Smoking creates health danger.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_027",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'decide'?",
+    "options": [
+      "ফলাফল",
+      "সিদ্ধান্ত নেওয়া",
+      "পরিবর্তন",
+      "রক্ষা করা"
+    ],
+    "answer_index": 1,
+    "explanation": "Think before you decide.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_028",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'develop'?",
+    "options": [
+      "উন্নত করা",
+      "আবেদন করা",
+      "নির্মাণ করা",
+      "দক্ষতা"
+    ],
+    "answer_index": 0,
+    "explanation": "Reading develops vocabulary.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_029",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'different'?",
+    "options": [
+      "নির্মাণ করা",
+      "পরামর্শ",
+      "ভিন্ন",
+      "উপকার"
+    ],
+    "answer_index": 2,
+    "explanation": "The two ideas are different.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_030",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'difficult'?",
+    "options": [
+      "জ্ঞান",
+      "কঠিন",
+      "সাফল্য",
+      "প্রস্তুত করা"
+    ],
+    "answer_index": 1,
+    "explanation": "The question is difficult.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_031",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'education'?",
+    "options": [
+      "অনুশীলন",
+      "উদাহরণ",
+      "শিক্ষা",
+      "তৈরি করা"
+    ],
+    "answer_index": 2,
+    "explanation": "Education changes lives.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_032",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'effort'?",
+    "options": [
+      "গুরুত্বপূর্ণ",
+      "জ্ঞান",
+      "প্রচেষ্টা",
+      "সম্পূর্ণ করা"
+    ],
+    "answer_index": 2,
+    "explanation": "Success requires effort.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_033",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'environment'?",
+    "options": [
+      "সৎ",
+      "উদাহরণ",
+      "পরিবেশ",
+      "শেখা"
+    ],
+    "answer_index": 2,
+    "explanation": "We should protect the environment.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_034",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'example'?",
+    "options": [
+      "উদাহরণ",
+      "উপকার",
+      "প্রতিরোধ করা",
+      "উন্নত করা"
+    ],
+    "answer_index": 0,
+    "explanation": "Give an example.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_035",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Practice",
+    "question": "What is the Bangla meaning of 'experience'?",
+    "options": [
+      "সিদ্ধান্ত নেওয়া",
+      "অভিজ্ঞতা",
+      "জ্ঞান",
+      "তৈরি করা"
+    ],
+    "answer_index": 1,
+    "explanation": "Travel gives us experience.",
+    "coin_cost": 2,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_001",
+    "type": "translation",
+    "category": "translation",
+    "title": "Bangla to English",
+    "question": "আমি প্রতিদিন ইংরেজি পড়ি।",
+    "answer": "I study English every day.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_002",
+    "type": "translation",
+    "category": "translation",
+    "title": "Bangla to English",
+    "question": "সে স্কুলে যায়।",
+    "answer": "He goes to school.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_003",
+    "type": "translation",
+    "category": "translation",
+    "title": "Bangla to English",
+    "question": "আমরা সময় নষ্ট করা উচিত নয়।",
+    "answer": "We should not waste time.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_004",
+    "type": "translation",
+    "category": "translation",
+    "title": "Bangla to English",
+    "question": "তুমি কি আমাকে সাহায্য করবে?",
+    "answer": "Will you help me?",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_005",
+    "type": "translation",
+    "category": "translation",
+    "title": "Bangla to English",
+    "question": "আজ আকাশ পরিষ্কার।",
+    "answer": "The sky is clear today.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_006",
+    "type": "translation",
+    "category": "translation",
+    "title": "Bangla to English",
+    "question": "বই আমাদের জ্ঞান বাড়ায়।",
+    "answer": "Books increase our knowledge.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_007",
+    "type": "translation",
+    "category": "translation",
+    "title": "Bangla to English",
+    "question": "স্বাস্থ্যই সম্পদ।",
+    "answer": "Health is wealth.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_008",
+    "type": "translation",
+    "category": "translation",
+    "title": "Bangla to English",
+    "question": "সময় খুব মূল্যবান।",
+    "answer": "Time is very valuable.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_009",
+    "type": "translation",
+    "category": "translation",
+    "title": "Bangla to English",
+    "question": "গাছ আমাদের অক্সিজেন দেয়।",
+    "answer": "Trees give us oxygen.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_010",
+    "type": "translation",
+    "category": "translation",
+    "title": "Bangla to English",
+    "question": "আমাদের পরিবেশ রক্ষা করা উচিত।",
+    "answer": "We should protect our environment.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_011",
+    "type": "translation",
+    "category": "translation",
+    "title": "Bangla to English",
+    "question": "সে গতকাল বাজারে গিয়েছিল।",
+    "answer": "He went to the market yesterday.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_012",
+    "type": "translation",
+    "category": "translation",
+    "title": "Bangla to English",
+    "question": "আমি কাজটি শেষ করেছি।",
+    "answer": "I have completed the work.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_013",
+    "type": "translation",
+    "category": "translation",
+    "title": "Bangla to English",
+    "question": "তারা মাঠে খেলছে।",
+    "answer": "They are playing in the field.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_014",
+    "type": "translation",
+    "category": "translation",
+    "title": "Bangla to English",
+    "question": "বৃষ্টি হলে আমরা ঘরে থাকব।",
+    "answer": "If it rains, we will stay at home.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_015",
+    "type": "translation",
+    "category": "translation",
+    "title": "Bangla to English",
+    "question": "তুমি কোথায় থাকো?",
+    "answer": "Where do you live?",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_016",
+    "type": "translation",
+    "category": "translation",
+    "title": "Bangla to English",
+    "question": "সে খুব মনোযোগ দিয়ে পড়ে।",
+    "answer": "She studies very attentively.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_017",
+    "type": "translation",
+    "category": "translation",
+    "title": "Bangla to English",
+    "question": "আমাদের নিয়মিত ব্যায়াম করা উচিত।",
+    "answer": "We should exercise regularly.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_018",
+    "type": "translation",
+    "category": "translation",
+    "title": "Bangla to English",
+    "question": "সততা একটি মহৎ গুণ।",
+    "answer": "Honesty is a noble quality.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_019",
+    "type": "translation",
+    "category": "translation",
+    "title": "Bangla to English",
+    "question": "পরিশ্রম সাফল্যের চাবিকাঠি।",
+    "answer": "Industry is the key to success.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_020",
+    "type": "translation",
+    "category": "translation",
+    "title": "Bangla to English",
+    "question": "একতা শক্তি।",
+    "answer": "Unity is strength.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_021",
+    "type": "translation",
+    "category": "translation",
+    "title": "Bangla to English",
+    "question": "আজ আমি ব্যস্ত।",
+    "answer": "I am busy today.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_022",
+    "type": "translation",
+    "category": "translation",
+    "title": "Bangla to English",
+    "question": "সে আমাকে একটি বই দিয়েছে।",
+    "answer": "He gave me a book.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_023",
+    "type": "translation",
+    "category": "translation",
+    "title": "Bangla to English",
+    "question": "আমরা আগামীকাল ভ্রমণে যাব।",
+    "answer": "We will go on a trip tomorrow.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_024",
+    "type": "translation",
+    "category": "translation",
+    "title": "Bangla to English",
+    "question": "তুমি কি ইংরেজি বলতে পারো?",
+    "answer": "Can you speak English?",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_025",
+    "type": "translation",
+    "category": "translation",
+    "title": "Bangla to English",
+    "question": "আমার একটি নতুন কলম আছে।",
+    "answer": "I have a new pen.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_026",
+    "type": "translation",
+    "category": "translation",
+    "title": "Bangla to English",
+    "question": "শিক্ষক আমাদের পাঠ বুঝিয়ে দিলেন।",
+    "answer": "The teacher explained the lesson to us.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_027",
+    "type": "translation",
+    "category": "translation",
+    "title": "Bangla to English",
+    "question": "আমি সকালে তাড়াতাড়ি উঠি।",
+    "answer": "I get up early in the morning.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_028",
+    "type": "translation",
+    "category": "translation",
+    "title": "Bangla to English",
+    "question": "পানি ছাড়া আমরা বাঁচতে পারি না।",
+    "answer": "We cannot live without water.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_029",
+    "type": "translation",
+    "category": "translation",
+    "title": "Bangla to English",
+    "question": "সবাই শান্তি চায়।",
+    "answer": "Everyone wants peace.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_030",
+    "type": "translation",
+    "category": "translation",
+    "title": "Bangla to English",
+    "question": "ভালো অভ্যাস মানুষকে সফল করে।",
+    "answer": "Good habits make a person successful.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_081",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Challenge",
+    "question": "What is the Bangla meaning of 'accurate'?",
+    "options": [
+      "উৎসাহ দেওয়া",
+      "নিয়মিত",
+      "অন্তর্ভুক্ত করা",
+      "সঠিক"
+    ],
+    "answer_index": 3,
+    "explanation": "The information must be accurate.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_082",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Challenge",
+    "question": "What is the Bangla meaning of 'advantage'?",
+    "options": [
+      "সাহসী",
+      "সুবিধা",
+      "প্রতিরোধ করা",
+      "উদার"
+    ],
+    "answer_index": 1,
+    "explanation": "Online learning has many advantages.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_083",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Challenge",
+    "question": "What is the Bangla meaning of 'aware'?",
+    "options": [
+      "ভাষা",
+      "পছন্দ",
+      "সক্রিয়",
+      "সচেতন"
+    ],
+    "answer_index": 3,
+    "explanation": "Students should be aware of cyber safety.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_084",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Challenge",
+    "question": "What is the Bangla meaning of 'behave'?",
+    "options": [
+      "আচরণ করা",
+      "সক্ষমতা",
+      "অভিজ্ঞতা",
+      "বিপদ"
+    ],
+    "answer_index": 0,
+    "explanation": "We should behave politely.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_085",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Challenge",
+    "question": "What is the Bangla meaning of 'challenge'?",
+    "options": [
+      "ভিন্ন",
+      "চ্যালেঞ্জ",
+      "সহায়তা করা",
+      "উদাহরণ"
+    ],
+    "answer_index": 1,
+    "explanation": "Every challenge teaches us something.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_086",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Challenge",
+    "question": "What is the Bangla meaning of 'citizen'?",
+    "options": [
+      "প্রচেষ্টা",
+      "সঠিক",
+      "নাগরিক",
+      "রক্ষা করা"
+    ],
+    "answer_index": 2,
+    "explanation": "A good citizen follows the law.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_087",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Challenge",
+    "question": "What is the Bangla meaning of 'compare'?",
+    "options": [
+      "পরিবেশ",
+      "তুলনা করা",
+      "উদাহরণ",
+      "অগ্রগতি"
+    ],
+    "answer_index": 1,
+    "explanation": "Compare the two answers.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_088",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Challenge",
+    "question": "What is the Bangla meaning of 'continue'?",
+    "options": [
+      "চমৎকার",
+      "চালিয়ে যাওয়া",
+      "আত্মবিশ্বাস",
+      "নিরাপদ"
+    ],
+    "answer_index": 1,
+    "explanation": "Continue your practice every day.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_089",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Challenge",
+    "question": "What is the Bangla meaning of 'culture'?",
+    "options": [
+      "কাজ",
+      "সংস্কৃতি",
+      "নির্মাণ করা",
+      "আচরণ করা"
+    ],
+    "answer_index": 1,
+    "explanation": "Bangladesh has a rich culture.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_090",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Challenge",
+    "question": "What is the Bangla meaning of 'curious'?",
+    "options": [
+      "ভারসাম্য",
+      "কৌতূহলী",
+      "দেখা দেওয়া",
+      "এড়িয়ে চলা"
+    ],
+    "answer_index": 1,
+    "explanation": "A curious student asks questions.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_091",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Challenge",
+    "question": "What is the Bangla meaning of 'depend'?",
+    "options": [
+      "নির্ভর করা",
+      "সৎ",
+      "সুযোগ",
+      "ভাষা"
+    ],
+    "answer_index": 0,
+    "explanation": "Success does not depend on luck alone.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_092",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Challenge",
+    "question": "What is the Bangla meaning of 'effective'?",
+    "options": [
+      "শেখা",
+      "কার্যকর",
+      "পরিচালনা করা",
+      "ভবিষ্যৎ"
+    ],
+    "answer_index": 1,
+    "explanation": "This is an effective study method.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_093",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Challenge",
+    "question": "What is the Bangla meaning of 'encourage'?",
+    "options": [
+      "ধৈর্যশীল",
+      "উৎসাহ দেওয়া",
+      "পরামর্শ",
+      "তথ্য"
+    ],
+    "answer_index": 1,
+    "explanation": "Teachers encourage students to read.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_094",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Challenge",
+    "question": "What is the Bangla meaning of 'essential'?",
+    "options": [
+      "আবেদন করা",
+      "অপরিহার্য",
+      "অন্তর্ভুক্ত করা",
+      "প্রতিরোধ করা"
+    ],
+    "answer_index": 1,
+    "explanation": "Clean water is essential for life.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_095",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Challenge",
+    "question": "What is the Bangla meaning of 'focus'?",
+    "options": [
+      "ভাষা",
+      "মনোযোগ দেওয়া",
+      "পছন্দ করা",
+      "কৌতূহলী"
+    ],
+    "answer_index": 1,
+    "explanation": "Focus on one task at a time.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_096",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Challenge",
+    "question": "What is the Bangla meaning of 'generous'?",
+    "options": [
+      "নিয়মিত",
+      "মূল্য",
+      "উদার",
+      "পর্যবেক্ষণ করা"
+    ],
+    "answer_index": 2,
+    "explanation": "A generous person helps others.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_097",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Challenge",
+    "question": "What is the Bangla meaning of 'gradually'?",
+    "options": [
+      "লক্ষ্য",
+      "নির্ভর করা",
+      "ধীরে ধীরে",
+      "পরিবর্তন"
+    ],
+    "answer_index": 2,
+    "explanation": "Your English will improve gradually.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_098",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Challenge",
+    "question": "What is the Bangla meaning of 'harmful'?",
+    "options": [
+      "পরামর্শ",
+      "ক্ষতিকর",
+      "গুরুত্বপূর্ণ",
+      "কৌতূহলী"
+    ],
+    "answer_index": 1,
+    "explanation": "Smoking is harmful to health.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_099",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Challenge",
+    "question": "What is the Bangla meaning of 'identify'?",
+    "options": [
+      "ধৈর্যশীল",
+      "অর্জন করা",
+      "শনাক্ত করা",
+      "এড়িয়ে চলা"
+    ],
+    "answer_index": 2,
+    "explanation": "Identify the main idea.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_100",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Challenge",
+    "question": "What is the Bangla meaning of 'independent'?",
+    "options": [
+      "স্বনির্ভর",
+      "সাহসী",
+      "প্রচেষ্টা",
+      "গ্রহণ করা"
+    ],
+    "answer_index": 0,
+    "explanation": "Education helps people become independent.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_101",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Challenge",
+    "question": "What is the Bangla meaning of 'influence'?",
+    "options": [
+      "প্রভাব",
+      "নির্ভর করা",
+      "সতর্ক",
+      "কঠিন"
+    ],
+    "answer_index": 0,
+    "explanation": "Friends can have a strong influence.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_102",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Challenge",
+    "question": "What is the Bangla meaning of 'information'?",
+    "options": [
+      "তথ্য",
+      "উন্নতি করা",
+      "ফলাফল",
+      "চালিয়ে যাওয়া"
+    ],
+    "answer_index": 0,
+    "explanation": "The internet provides information.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_103",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Challenge",
+    "question": "What is the Bangla meaning of 'journey'?",
+    "options": [
+      "ভ্রমণ",
+      "ব্যাখ্যা করা",
+      "অর্জন করা",
+      "বিপদ"
+    ],
+    "answer_index": 0,
+    "explanation": "The train journey was enjoyable.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_104",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Challenge",
+    "question": "What is the Bangla meaning of 'maintain'?",
+    "options": [
+      "রক্ষা করা",
+      "পরিবর্তন",
+      "বজায় রাখা",
+      "প্রভাবিত করা"
+    ],
+    "answer_index": 2,
+    "explanation": "Maintain a regular study routine.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_vocab_105",
+    "type": "mcq",
+    "category": "vocabulary",
+    "title": "Vocabulary Challenge",
+    "question": "What is the Bangla meaning of 'method'?",
+    "options": [
+      "স্বনির্ভর",
+      "পছন্দ করা",
+      "ভ্রমণ",
+      "পদ্ধতি"
+    ],
+    "answer_index": 3,
+    "explanation": "Choose a simple learning method.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_106",
+    "type": "translation",
+    "category": "translation",
+    "title": "Translation Challenge",
+    "question": "আমি প্রতিদিন নতুন শব্দ শিখি।",
+    "answer": "I learn new words every day.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_107",
+    "type": "translation",
+    "category": "translation",
+    "title": "Translation Challenge",
+    "question": "সে খুব সুন্দর ইংরেজি লিখে।",
+    "answer": "She writes English very well.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_108",
+    "type": "translation",
+    "category": "translation",
+    "title": "Translation Challenge",
+    "question": "আমরা একসাথে পড়াশোনা করি।",
+    "answer": "We study together.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_109",
+    "type": "translation",
+    "category": "translation",
+    "title": "Translation Challenge",
+    "question": "তারা সময়মতো পৌঁছেছিল।",
+    "answer": "They arrived on time.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_110",
+    "type": "translation",
+    "category": "translation",
+    "title": "Translation Challenge",
+    "question": "তোমার পরামর্শটি খুব উপকারী।",
+    "answer": "Your advice is very useful.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_111",
+    "type": "translation",
+    "category": "translation",
+    "title": "Translation Challenge",
+    "question": "পরীক্ষার আগে ভালোভাবে প্রস্তুতি নাও।",
+    "answer": "Prepare well before the examination.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_112",
+    "type": "translation",
+    "category": "translation",
+    "title": "Translation Challenge",
+    "question": "আমাদের সত্য কথা বলা উচিত।",
+    "answer": "We should tell the truth.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_113",
+    "type": "translation",
+    "category": "translation",
+    "title": "Translation Challenge",
+    "question": "শিশুরা মাঠে আনন্দ করে খেলছে।",
+    "answer": "The children are playing happily in the field.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_114",
+    "type": "translation",
+    "category": "translation",
+    "title": "Translation Challenge",
+    "question": "আমি এখন একটি গল্প পড়ছি।",
+    "answer": "I am reading a story now.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_115",
+    "type": "translation",
+    "category": "translation",
+    "title": "Translation Challenge",
+    "question": "সে কাজটি করতে চেষ্টা করেছিল।",
+    "answer": "He tried to do the work.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_116",
+    "type": "translation",
+    "category": "translation",
+    "title": "Translation Challenge",
+    "question": "তুমি নিয়মিত অনুশীলন করলে উন্নতি করবে।",
+    "answer": "You will improve if you practice regularly.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_117",
+    "type": "translation",
+    "category": "translation",
+    "title": "Translation Challenge",
+    "question": "আজ আমাদের কোনো ক্লাস নেই।",
+    "answer": "We have no class today.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_118",
+    "type": "translation",
+    "category": "translation",
+    "title": "Translation Challenge",
+    "question": "আমার ভাই ঢাকায় কাজ করে।",
+    "answer": "My brother works in Dhaka.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_119",
+    "type": "translation",
+    "category": "translation",
+    "title": "Translation Challenge",
+    "question": "আমরা গত সপ্তাহে একটি বইমেলায় গিয়েছিলাম।",
+    "answer": "We went to a book fair last week.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_120",
+    "type": "translation",
+    "category": "translation",
+    "title": "Translation Challenge",
+    "question": "সে আমাকে অপেক্ষা করতে বলল।",
+    "answer": "He told me to wait.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_121",
+    "type": "translation",
+    "category": "translation",
+    "title": "Translation Challenge",
+    "question": "আমি বিষয়টি বুঝতে পারিনি।",
+    "answer": "I could not understand the matter.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_122",
+    "type": "translation",
+    "category": "translation",
+    "title": "Translation Challenge",
+    "question": "তারা আগামী মাসে পরীক্ষা দেবে।",
+    "answer": "They will take the examination next month.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_123",
+    "type": "translation",
+    "category": "translation",
+    "title": "Translation Challenge",
+    "question": "আমাদের দেশকে ভালোবাসা উচিত।",
+    "answer": "We should love our country.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_124",
+    "type": "translation",
+    "category": "translation",
+    "title": "Translation Challenge",
+    "question": "পরিষ্কার-পরিচ্ছন্নতা সুস্বাস্থ্যের জন্য গুরুত্বপূর্ণ।",
+    "answer": "Cleanliness is important for good health.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_125",
+    "type": "translation",
+    "category": "translation",
+    "title": "Translation Challenge",
+    "question": "কেউই ভুলের ঊর্ধ্বে নয়।",
+    "answer": "Nobody is above mistakes.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_126",
+    "type": "translation",
+    "category": "translation",
+    "title": "Translation Challenge",
+    "question": "আজকের কাজ আজই শেষ করো।",
+    "answer": "Finish today’s work today.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_127",
+    "type": "translation",
+    "category": "translation",
+    "title": "Translation Challenge",
+    "question": "শিক্ষা জাতির মেরুদণ্ড।",
+    "answer": "Education is the backbone of a nation.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_128",
+    "type": "translation",
+    "category": "translation",
+    "title": "Translation Challenge",
+    "question": "সে আমার কথা মন দিয়ে শুনল।",
+    "answer": "She listened to me attentively.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_129",
+    "type": "translation",
+    "category": "translation",
+    "title": "Translation Challenge",
+    "question": "আমি ইংরেজিতে কথা বলার চেষ্টা করছি।",
+    "answer": "I am trying to speak in English.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  },
+  {
+    "id": "practice_translation_130",
+    "type": "translation",
+    "category": "translation",
+    "title": "Translation Challenge",
+    "question": "বইটি পড়ে আমি অনেক কিছু শিখেছি।",
+    "answer": "I learned many things by reading the book.",
+    "coin_cost": 3,
+    "reward_coin": 1
+  }
+]
