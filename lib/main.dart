@@ -1,11 +1,23 @@
+import 'dart:async';
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'app_state.dart';
-import 'screens/onboarding_screen.dart';
 import 'screens/home_shell.dart';
+import 'screens/onboarding_screen.dart';
+import 'services/auth_service.dart';
+import 'services/purchase_service.dart';
+import 'services/rewarded_ad_service.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp();
+  await AuthService.instance.initialize();
+
   final appState = await AppState.create();
+  await appState.startCloudSync();
+  await PurchaseService.instance.initialize(appState);
+  unawaited(RewardedAdService.instance.initialize());
+
   runApp(LexiShikhiApp(appState: appState));
 }
 
@@ -24,10 +36,12 @@ class LexiShikhiApp extends StatelessWidget {
       colorScheme: scheme,
       brightness: brightness,
       useMaterial3: true,
-      scaffoldBackgroundColor: dark ? const Color(0xFF111318) : const Color(0xFFF7F8FC),
+      scaffoldBackgroundColor:
+          dark ? const Color(0xFF111318) : const Color(0xFFF7F8FC),
       appBarTheme: AppBarThemeData(
         surfaceTintColor: Colors.transparent,
-        backgroundColor: dark ? const Color(0xFF111318) : const Color(0xFFF7F8FC),
+        backgroundColor:
+            dark ? const Color(0xFF111318) : const Color(0xFFF7F8FC),
       ),
       cardTheme: const CardThemeData(
         elevation: 0,

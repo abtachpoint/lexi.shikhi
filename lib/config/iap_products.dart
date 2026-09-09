@@ -2,31 +2,37 @@ class CoinPack {
   const CoinPack({
     required this.productId,
     required this.coins,
-    required this.priceLabel,
     this.bonus = 0,
     this.isMega = false,
   });
 
   final String productId;
   final int coins;
-  final String priceLabel;
   final int bonus;
   final bool isMega;
 
   int get totalCoins => coins + bonus;
 }
 
+// Create these exact IDs in Google Play Console after the first AAB upload.
+// Prices are NOT hardcoded; the app reads localized prices from Google Play.
 const coinPacks = <CoinPack>[
-  CoinPack(productId: 'lexi_coins_50', coins: 50, priceLabel: r'$0.51'),
-  CoinPack(productId: 'lexi_coins_110', coins: 110, priceLabel: r'$1.01'),
-  CoinPack(productId: 'lexi_coins_240', coins: 240, priceLabel: r'$2.01'),
-  CoinPack(productId: 'lexi_coins_390', coins: 390, priceLabel: r'$3.01'),
-  CoinPack(productId: 'lexi_coins_560', coins: 560, priceLabel: r'$4.01'),
+  CoinPack(productId: 'coins_50', coins: 50),
+  CoinPack(productId: 'coins_110', coins: 110),
+  CoinPack(productId: 'coins_240', coins: 240),
+  CoinPack(productId: 'coins_390', coins: 390),
+  CoinPack(productId: 'coins_560', coins: 560),
   CoinPack(
-    productId: 'lexi_mega_2000',
+    productId: 'coins_2000',
     coins: 1600,
     bonus: 400,
-    priceLabel: r'$10.01',
     isMega: true,
   ),
 ];
+
+CoinPack? coinPackByProductId(String productId) {
+  for (final pack in coinPacks) {
+    if (pack.productId == productId) return pack;
+  }
+  return null;
+}

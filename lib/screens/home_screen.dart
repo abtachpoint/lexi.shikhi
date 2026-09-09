@@ -3,13 +3,18 @@ import '../app_state.dart';
 import '../config/app_config.dart';
 import 'writing_categories_screen.dart';
 import 'simple_data_screen.dart';
-import 'practice_screen.dart';
-import 'saved_screen.dart';
-import 'wallet_screen.dart';
 
 class HomeScreen extends StatelessWidget {
-  const HomeScreen({super.key, required this.appState});
+  const HomeScreen({
+    super.key,
+    required this.appState,
+    required this.onOpenPractice,
+    required this.onOpenSaved,
+  });
+
   final AppState appState;
+  final VoidCallback onOpenPractice;
+  final VoidCallback onOpenSaved;
 
   @override
   Widget build(BuildContext context) {
@@ -76,21 +81,15 @@ class HomeScreen extends StatelessWidget {
       ),
       _HomeItem(
         appState.t('প্র্যাকটিস', 'Practice'),
-        appState.t('MCQ ও Translation challenge', 'MCQ and translation challenges'),
+        appState.t('প্যাকভিত্তিক MCQ ও Translation practice', 'Practice packs with MCQ and translation'),
         Icons.quiz_rounded,
-        () => Navigator.push(
-          context,
-          MaterialPageRoute(builder: (_) => PracticeScreen(appState: appState)),
-        ),
+        onOpenPractice,
       ),
       _HomeItem(
         appState.t('সেভ করা', 'Saved'),
         appState.t('আপনার bookmarked content', 'Your bookmarked content'),
         Icons.bookmark_rounded,
-        () => Navigator.push(
-          context,
-          MaterialPageRoute(builder: (_) => SavedScreen(appState: appState)),
-        ),
+        onOpenSaved,
       ),
     ];
 
@@ -129,7 +128,7 @@ class HomeScreen extends StatelessWidget {
                 children: [
                   _MiniStat(icon: Icons.lock_open_rounded, value: '${appState.unlockedTopics.length}', label: appState.t('Unlocked', 'Unlocked')),
                   const SizedBox(width: 10),
-                  _MiniStat(icon: Icons.quiz_rounded, value: '${appState.quizzesCompleted}', label: appState.t('Practice', 'Practice')),
+                  _MiniStat(icon: Icons.quiz_rounded, value: '${appState.completedPracticeIds.length}', label: appState.t('Practice', 'Practice')),
                 ],
               ),
             ],
@@ -157,23 +156,9 @@ class HomeScreen extends StatelessWidget {
             ),
           ),
         if (appState.canClaimDailyReward) const SizedBox(height: 18),
-        Row(
-          children: [
-            Expanded(
-              child: Text(
-                appState.t('শেখার বিভাগ', 'Study Sections'),
-                style: const TextStyle(fontSize: 19, fontWeight: FontWeight.w900),
-              ),
-            ),
-            TextButton.icon(
-              onPressed: () => Navigator.push(
-                context,
-                MaterialPageRoute(builder: (_) => WalletScreen(appState: appState)),
-              ),
-              icon: const Icon(Icons.monetization_on_outlined),
-              label: Text(appState.t('কয়েন', 'Coins')),
-            ),
-          ],
+        Text(
+          appState.t('শেখার বিভাগ', 'Study Sections'),
+          style: const TextStyle(fontSize: 19, fontWeight: FontWeight.w900),
         ),
         const SizedBox(height: 10),
         GridView.builder(

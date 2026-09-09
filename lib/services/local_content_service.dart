@@ -28,6 +28,8 @@ class LocalContentService {
   static Future<List<dynamic>> loadVocabulary() => loadList('vocabulary.json');
   static Future<List<dynamic>> loadTranslation() => loadList('translation.json');
   static Future<List<dynamic>> loadPractice() => loadList('practice.json');
+  static Future<List<dynamic>> loadPracticePacks() =>
+      loadList('practice_packs.json');
 
   static Map<String, dynamic> normalize(
     Map<String, dynamic> raw,
@@ -68,7 +70,9 @@ class LocalContentService {
     return {...raw, 'source_file': sourceFile};
   }
 
-  static Future<List<Map<String, dynamic>>> loadNormalized(String fileName) async {
+  static Future<List<Map<String, dynamic>>> loadNormalized(
+    String fileName,
+  ) async {
     final raw = await loadList(fileName);
     return raw
         .map((e) => normalize(Map<String, dynamic>.from(e), fileName))

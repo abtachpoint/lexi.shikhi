@@ -1,16 +1,18 @@
 workflows:
   android-release:
-    name: LexiShikhi Android APK + AAB
+    name: LexiShikhi Final APK + AAB
     max_build_duration: 60
     environment:
       flutter: stable
       java: 17
+      android_signing:
+        - lexishikhi_upload
 
     scripts:
       - name: Prepare Gradle 8.14
         script: |
           mkdir -p android/gradle/wrapper
-          cat > android/gradle/wrapper/gradle-wrapper.properties <<'EOF'
+          cat > android/gradle/wrapper/gradle-wrapper.properties <<'GRADLE_EOF'
           distributionBase=GRADLE_USER_HOME
           distributionPath=wrapper/dists
           distributionUrl=https\://services.gradle.org/distributions/gradle-8.14-bin.zip
@@ -18,7 +20,7 @@ workflows:
           validateDistributionUrl=true
           zipStoreBase=GRADLE_USER_HOME
           zipStorePath=wrapper/dists
-          EOF
+          GRADLE_EOF
 
           if [ ! -f android/gradle/wrapper/gradle-wrapper.jar ]; then
             TMP_DIR="$(mktemp -d)"
@@ -38,13 +40,13 @@ workflows:
         script: |
           flutter analyze --no-fatal-warnings --no-fatal-infos
 
-      - name: Build APK
+      - name: Build test APK
         script: |
-          flutter build apk --release
+          flutter build apk --release --dart-define=USE_TEST_ADS=true
 
-      - name: Build AAB
+      - name: Build Play AAB
         script: |
-          flutter build appbundle --release
+          flutter build appbundle --release --dart-define=USE_TEST_ADS=false
 
     artifacts:
       - build/app/outputs/flutter-apk/app-release.apk

@@ -17,11 +17,28 @@ class HomeShell extends StatefulWidget {
 class _HomeShellState extends State<HomeShell> {
   int index = 0;
 
+  void _selectTab(int value) {
+    if (value == index) return;
+    setState(() => index = value);
+  }
+
+  void _openWallet() {
+    Navigator.of(context).push(
+      MaterialPageRoute(
+        builder: (_) => WalletScreen(appState: widget.appState),
+      ),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     final state = widget.appState;
     final pages = [
-      HomeScreen(appState: state),
+      HomeScreen(
+        appState: state,
+        onOpenPractice: () => _selectTab(1),
+        onOpenSaved: () => _selectTab(2),
+      ),
       PracticeScreen(appState: state),
       SavedScreen(appState: state),
       ProfileScreen(appState: state),
@@ -35,24 +52,40 @@ class _HomeShellState extends State<HomeShell> {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text(titles[index], style: const TextStyle(fontWeight: FontWeight.w900)),
+        title: Text(
+          titles[index],
+          style: const TextStyle(fontWeight: FontWeight.w900),
+        ),
         actions: [
+          TextButton(
+            onPressed: _openWallet,
+            style: TextButton.styleFrom(
+              foregroundColor: Theme.of(context).colorScheme.onSurface,
+              padding: const EdgeInsets.symmetric(horizontal: 6),
+              minimumSize: const Size(0, 40),
+            ),
+            child: Text(
+              state.t('কয়েন কিনুন', 'Buy Coins'),
+              style: const TextStyle(fontWeight: FontWeight.w800),
+            ),
+          ),
           Padding(
-            padding: const EdgeInsets.only(right: 12),
+            padding: const EdgeInsets.only(right: 10),
             child: ActionChip(
               avatar: const Icon(Icons.monetization_on_rounded, size: 19),
-              label: Text('${state.coins}', style: const TextStyle(fontWeight: FontWeight.w900)),
-              onPressed: () => Navigator.of(context).push(
-                MaterialPageRoute(builder: (_) => WalletScreen(appState: state)),
+              label: Text(
+                '${state.coins}',
+                style: const TextStyle(fontWeight: FontWeight.w900),
               ),
+              onPressed: _openWallet,
             ),
           ),
         ],
       ),
-      body: pages[index],
+      body: IndexedStack(index: index, children: pages),
       bottomNavigationBar: NavigationBar(
         selectedIndex: index,
-        onDestinationSelected: (value) => setState(() => index = value),
+        onDestinationSelected: _selectTab,
         destinations: [
           NavigationDestination(
             icon: const Icon(Icons.home_outlined),

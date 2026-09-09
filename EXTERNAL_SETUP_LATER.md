@@ -1,36 +1,21 @@
-# Connect Later
+# External setup status — v1.2.0
 
-Do not add real credentials to GitHub.
+Already connected in source:
+- Firebase Core
+- Firebase Google + Email/Password Authentication code
+- Cloud Firestore sync
+- AdMob App ID and Rewarded Ad unit
+- UMP ad privacy/consent flow
+- Google Play Billing code and BILLING permission
+- exact future Play product IDs
 
-## Firebase
-Connect:
-- Firebase project
-- Android app package: com.lexishikhi.learnenglish
-- google-services.json
-- Firebase Authentication
-- Firestore user coin/unlock/saved sync
-- Google Sign-In / Email Sign-In
+Still done outside the source project:
+1. Add upload-keystore SHA-1 to Firebase.
+2. Add `lexishikhi_upload` signing identity to Codemagic.
+3. Build APK + AAB once.
+4. Upload AAB to Play Internal testing.
+5. Create/activate the six one-time products in Play Console.
+6. Add Play App Signing SHA-1 to Firebase.
+7. Configure AdMob Privacy & messaging and Play Console declarations.
 
-## AdMob
-Only Rewarded Ads are planned.
-No banner/interstitial/forced ads.
-Reward plan: +5 coins per completed rewarded ad.
-Suggested daily limit: 5 rewarded ads.
-
-## IAP planned products
-- lexi_coins_50 -> $0.51
-- lexi_coins_110 -> $1.01
-- lexi_coins_240 -> $2.01
-- lexi_coins_390 -> $3.01
-- lexi_coins_560 -> $4.01
-- lexi_mega_2000 -> $10.01 (1600 + 400 bonus)
-
-Actual pricing and availability are configured in Google Play Console.
-
-## Publishing
-Before production:
-- Production signing
-- Real Privacy Policy URL
-- Data Safety
-- Ads declaration
-- IAP product activation/testing
+See `FINAL_SETUP_STEPS.md` for exact order.

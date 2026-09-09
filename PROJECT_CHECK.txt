@@ -1,33 +1,37 @@
-LexiShikhi Final Project Check
-===============================
-Project type: Flutter Android
-Package: com.lexishikhi.learnenglish
-Version: 1.0.0+1
-Compile SDK: 36
-Target SDK: 36
+LexiShikhi v1.2.0 connected-source static check
 
-Local data:
-- 510 study/practice content records
-- No duplicate content IDs
-- JSON files parsed successfully
-- YAML files parsed successfully
-- Dart source delimiter/static structure check passed
-- Android manifest/Gradle project files present
-- Custom launcher icon PNGs included
+[OK] Package/application ID: com.lexishikhi.learnenglish
+[OK] Firebase google-services.json present in android/app
+[OK] Google services Gradle plugin: 4.5.0
+[OK] Firebase Auth + Firestore Flutter dependencies declared
+[OK] Google Sign-In implementation wired
+[OK] Email/password sign-in, sign-up, password reset and account deletion wired
+[OK] Firestore user-specific rules included
+[OK] Cloud sync code for coin/unlock/saved/practice state wired
+[OK] AdMob App ID configured
+[OK] Rewarded Ad Unit configured; no banner/interstitial/app-open implementation
+[OK] Google UMP consent/privacy code wired before ad requests
+[OK] Test APK uses Google test rewarded unit via USE_TEST_ADS=true
+[OK] Play AAB uses production rewarded unit via USE_TEST_ADS=false
+[OK] Android BILLING permission present
+[OK] IAP product IDs: coins_50, coins_110, coins_240, coins_390, coins_560, coins_2000
+[OK] IAP price display uses Google Play ProductDetails localized price
+[OK] compileSdk/targetSdk: 36
+[OK] minSdk: 24
+[OK] Gradle: 8.14
+[OK] AGP: 8.11.1
+[OK] Kotlin: 2.2.20
+[OK] Java: 17
+[OK] 8 practice packs cover all practice items
+[OK] Practice first-completion reward protection retained
+[OK] Practice/Saved in-screen navigation preserves app theme
+[OK] Privacy Policy and Account Deletion public HTML included
+[OK] Settings developer/setup subtitles removed
 
-Codemagic:
-- Builds release APK
-- Builds release AAB
-- Gradle wrapper JAR is generated automatically in Codemagic if missing
+[ONE-TIME EXTERNAL] Add upload SHA-1 to Firebase before build
+[ONE-TIME EXTERNAL] Configure Codemagic signing identity lexishikhi_upload
+[AFTER FIRST AAB] Create/activate Play one-time products
+[AFTER FIRST AAB] Add Play App Signing SHA-1 to Firebase
+[AFTER FIRST AAB] Finish Play/AdMob policy declarations
 
-Intentionally NOT connected yet:
-- Firebase / Firestore
-- Google & Email authentication backend
-- AdMob Rewarded Ads
-- Google Play IAP
-- Production release keystore
-- Final hosted Privacy Policy URL / Play Data Safety
-
-Important:
-The release Gradle config currently uses debug signing so test builds can be produced.
-Connect the production keystore before publishing to Google Play.
+Note: this file records static/config checks. The authoritative compile test is the final Codemagic build.

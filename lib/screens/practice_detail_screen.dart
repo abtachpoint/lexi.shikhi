@@ -19,12 +19,15 @@ class _PracticeDetailScreenState extends State<PracticeDetailScreen> {
   int? selectedIndex;
   bool checked = false;
   bool revealed = false;
+  bool rewardEarnedThisAttempt = false;
 
   @override
   Widget build(BuildContext context) {
     final item = widget.item;
     final type = '${item['type']}';
     final reward = (item['reward_coin'] as num?)?.toInt() ?? 0;
+    final id = '${item['id']}';
+    final alreadyCompleted = widget.appState.isPracticeCompleted(id);
 
     return Scaffold(
       appBar: AppBar(title: Text('${item['title']}')),
@@ -39,16 +42,42 @@ class _PracticeDetailScreenState extends State<PracticeDetailScreen> {
                 children: [
                   Text(
                     widget.appState.t('প্রশ্ন', 'Question'),
-                    style: TextStyle(color: Theme.of(context).colorScheme.primary, fontWeight: FontWeight.w800),
+                    style: TextStyle(
+                      color: Theme.of(context).colorScheme.primary,
+                      fontWeight: FontWeight.w800,
+                    ),
                   ),
                   const SizedBox(height: 8),
-                  Text('${item['question']}', style: const TextStyle(fontSize: 20, fontWeight: FontWeight.w800, height: 1.4)),
+                  Text(
+                    '${item['question']}',
+                    style: const TextStyle(
+                      fontSize: 20,
+                      fontWeight: FontWeight.w800,
+                      height: 1.4,
+                    ),
+                  ),
                 ],
               ),
             ),
           ),
           const SizedBox(height: 14),
-          if (type == 'mcq') ..._buildMcq(item, reward) else ..._buildTranslation(item, reward),
+          if (!alreadyCompleted && reward > 0)
+            Padding(
+              padding: const EdgeInsets.only(bottom: 12),
+              child: Text(
+                widget.appState.t(
+                  'প্রথমবার সঠিকভাবে সম্পন্ন করলে +$reward কয়েন পাবেন।',
+                  'Complete it correctly for the first time to earn +$reward coin.',
+                ),
+                style: TextStyle(
+                  color: Theme.of(context).colorScheme.onSurfaceVariant,
+                ),
+              ),
+            ),
+          if (type == 'mcq')
+            ..._buildMcq(item, reward)
+          else
+            ..._buildTranslation(item, reward),
         ],
       ),
     );
@@ -63,7 +92,9 @@ class _PracticeDetailScreenState extends State<PracticeDetailScreen> {
         Color? tileColor;
         if (checked) {
           if (i == answerIndex) tileColor = Colors.green.withOpacity(.12);
-          if (selected && i != answerIndex) tileColor = Colors.red.withOpacity(.10);
+          if (selected && i != answerIndex) {
+            tileColor = Colors.red.withOpacity(.10);
+          }
         }
         return Padding(
           padding: const EdgeInsets.only(bottom: 9),
@@ -84,10 +115,18 @@ class _PracticeDetailScreenState extends State<PracticeDetailScreen> {
             ? null
             : () {
                 final correct = selectedIndex == answerIndex;
-                widget.appState.recordPractice(correct: correct, reward: correct ? reward : 0);
-                setState(() => checked = true);
+                final wasCompleted = widget.appState.isPracticeCompleted('${item['id']}');
+                widget.appState.recordPractice(
+                  practiceId: '${item['id']}',
+                  correct: correct,
+                  reward: correct ? reward : 0,
+                );
+                setState(() {
+                  checked = true;
+                  rewardEarnedThisAttempt = correct && !wasCompleted && reward > 0;
+                });
               },
-        child: Text(widget.appState.t('Answer Check করুন', 'Check Answer')),
+        child: Text(widget.appState.t('উত্তর যাচাই করুন', 'Check Answer')),
       ),
       if (checked) ...[
         const SizedBox(height: 14),
@@ -107,15 +146,25 @@ class _PracticeDetailScreenState extends State<PracticeDetailScreen> {
           'আগে নিজে English-এ translate করার চেষ্টা করুন।',
           'Try translating it into English before revealing the answer.',
         ),
-        style: TextStyle(color: Colors.grey.shade700),
+        style: TextStyle(
+          color: Theme.of(context).colorScheme.onSurfaceVariant,
+        ),
       ),
       const SizedBox(height: 16),
       FilledButton.tonalIcon(
         onPressed: revealed
             ? null
             : () {
-                widget.appState.recordPractice(correct: true, reward: reward);
-                setState(() => revealed = true);
+                final wasCompleted = widget.appState.isPracticeCompleted('${item['id']}');
+                widget.appState.recordPractice(
+                  practiceId: '${item['id']}',
+                  correct: true,
+                  reward: reward,
+                );
+                setState(() {
+                  revealed = true;
+                  rewardEarnedThisAttempt = !wasCompleted && reward > 0;
+                });
               },
         icon: const Icon(Icons.visibility_outlined),
         label: Text(widget.appState.t('Model Answer দেখুন', 'Show Model Answer')),
@@ -127,7 +176,11 @@ class _PracticeDetailScreenState extends State<PracticeDetailScreen> {
             padding: const EdgeInsets.all(18),
             child: SelectableText(
               '${item['answer']}',
-              style: const TextStyle(fontSize: 18, height: 1.5, fontWeight: FontWeight.w700),
+              style: const TextStyle(
+                fontSize: 18,
+                height: 1.5,
+                fontWeight: FontWeight.w700,
+              ),
             ),
           ),
         ),
@@ -135,7 +188,12 @@ class _PracticeDetailScreenState extends State<PracticeDetailScreen> {
     ];
   }
 
-  Widget _resultCard(bool correct, String explanation, int reward) {
+  Widget _resultCard(
+    bool correct,
+    String explanation,
+    int reward,
+  ) {
+    final rewarded = correct && rewardEarnedThisAttempt;
     return Card(
       child: Padding(
         padding: const EdgeInsets.all(18),
@@ -152,9 +210,14 @@ class _PracticeDetailScreenState extends State<PracticeDetailScreen> {
                 color: correct ? Colors.green.shade700 : Colors.red.shade700,
               ),
             ),
-            if (correct && reward > 0) ...[
+            if (rewarded) ...[
               const SizedBox(height: 6),
-              Text('+$reward ${widget.appState.t('কয়েন reward', 'coin reward')}'),
+              Text(
+                widget.appState.t(
+                  'প্রথম completion reward যোগ হয়েছে।',
+                  'First-completion reward has been added.',
+                ),
+              ),
             ],
             if (explanation.trim().isNotEmpty) ...[
               const SizedBox(height: 8),

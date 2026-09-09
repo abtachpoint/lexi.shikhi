@@ -13,8 +13,8 @@
     ],
     "answer_index": 0,
     "explanation": "Parts of speech classify words by their function in a sentence.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "grammar_pack_1"
   },
   {
     "id": "practice_grammar_002",
@@ -30,8 +30,8 @@
     ],
     "answer_index": 0,
     "explanation": "Tense shows the time of an action or state.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "grammar_pack_1"
   },
   {
     "id": "practice_grammar_003",
@@ -47,8 +47,8 @@
     ],
     "answer_index": 0,
     "explanation": "Articles are a, an, and the. They come before nouns.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "grammar_pack_1"
   },
   {
     "id": "practice_grammar_004",
@@ -64,8 +64,8 @@
     ],
     "answer_index": 0,
     "explanation": "A preposition shows relation of place, time, direction, or other connection.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "grammar_pack_1"
   },
   {
     "id": "practice_grammar_005",
@@ -81,8 +81,8 @@
     ],
     "answer_index": 0,
     "explanation": "The form of a verb changes according to tense, subject, and sentence structure.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "grammar_pack_1"
   },
   {
     "id": "practice_grammar_006",
@@ -98,8 +98,8 @@
     ],
     "answer_index": 0,
     "explanation": "A verb should agree with its subject in number and person.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "grammar_pack_1"
   },
   {
     "id": "practice_grammar_007",
@@ -115,8 +115,8 @@
     ],
     "answer_index": 0,
     "explanation": "Voice shows whether the subject performs or receives the action.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "grammar_pack_1"
   },
   {
     "id": "practice_grammar_008",
@@ -132,8 +132,8 @@
     ],
     "answer_index": 0,
     "explanation": "Narration changes direct speech into indirect speech or vice versa.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "grammar_pack_1"
   },
   {
     "id": "practice_grammar_009",
@@ -149,8 +149,8 @@
     ],
     "answer_index": 0,
     "explanation": "Adjectives can be positive, comparative, or superlative.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "grammar_pack_2"
   },
   {
     "id": "practice_grammar_010",
@@ -166,8 +166,8 @@
     ],
     "answer_index": 0,
     "explanation": "A sentence can often change form without changing its basic meaning.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "grammar_pack_2"
   },
   {
     "id": "practice_grammar_011",
@@ -183,8 +183,8 @@
     ],
     "answer_index": 0,
     "explanation": "A sentence should be completed with a logically and grammatically correct clause.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "grammar_pack_2"
   },
   {
     "id": "practice_grammar_012",
@@ -200,8 +200,8 @@
     ],
     "answer_index": 0,
     "explanation": "Punctuation marks organize written language and clarify meaning.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "grammar_pack_2"
   },
   {
     "id": "practice_grammar_013",
@@ -217,8 +217,8 @@
     ],
     "answer_index": 0,
     "explanation": "A synonym is a word with the same or nearly the same meaning.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "grammar_pack_2"
   },
   {
     "id": "practice_grammar_014",
@@ -234,8 +234,8 @@
     ],
     "answer_index": 0,
     "explanation": "An antonym is a word with an opposite meaning.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "grammar_pack_2"
   },
   {
     "id": "practice_grammar_015",
@@ -251,8 +251,8 @@
     ],
     "answer_index": 0,
     "explanation": "Prefixes come before roots; suffixes come after roots.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "grammar_pack_2"
   },
   {
     "id": "practice_vocab_001",
@@ -268,8 +268,8 @@
     ],
     "answer_index": 3,
     "explanation": "She worked hard to achieve her goal.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_1"
   },
   {
     "id": "practice_vocab_002",
@@ -285,8 +285,8 @@
     ],
     "answer_index": 2,
     "explanation": "Practice improves your ability.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_1"
   },
   {
     "id": "practice_vocab_003",
@@ -302,8 +302,8 @@
     ],
     "answer_index": 0,
     "explanation": "Please accept my apology.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_1"
   },
   {
     "id": "practice_vocab_004",
@@ -319,8 +319,8 @@
     ],
     "answer_index": 3,
     "explanation": "He is active in class.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_1"
   },
   {
     "id": "practice_vocab_005",
@@ -336,8 +336,8 @@
     ],
     "answer_index": 1,
     "explanation": "The teacher gave useful advice.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_1"
   },
   {
     "id": "practice_vocab_006",
@@ -353,8 +353,8 @@
     ],
     "answer_index": 2,
     "explanation": "Weather can affect travel.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_1"
   },
   {
     "id": "practice_vocab_007",
@@ -370,8 +370,8 @@
     ],
     "answer_index": 0,
     "explanation": "They allow students to use the library.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_1"
   },
   {
     "id": "practice_vocab_008",
@@ -387,8 +387,8 @@
     ],
     "answer_index": 0,
     "explanation": "Write the correct answer.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_1"
   },
   {
     "id": "practice_vocab_009",
@@ -404,8 +404,8 @@
     ],
     "answer_index": 3,
     "explanation": "Stars appear at night.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_1"
   },
   {
     "id": "practice_vocab_010",
@@ -421,8 +421,8 @@
     ],
     "answer_index": 2,
     "explanation": "You can apply for the course.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_1"
   },
   {
     "id": "practice_vocab_011",
@@ -438,8 +438,8 @@
     ],
     "answer_index": 1,
     "explanation": "We arrived on time.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_1"
   },
   {
     "id": "practice_vocab_012",
@@ -455,8 +455,8 @@
     ],
     "answer_index": 0,
     "explanation": "Avoid unnecessary mistakes.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_1"
   },
   {
     "id": "practice_vocab_013",
@@ -472,8 +472,8 @@
     ],
     "answer_index": 1,
     "explanation": "Keep a balance between study and rest.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_1"
   },
   {
     "id": "practice_vocab_014",
@@ -489,8 +489,8 @@
     ],
     "answer_index": 2,
     "explanation": "Reading has many benefits.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_1"
   },
   {
     "id": "practice_vocab_015",
@@ -506,8 +506,8 @@
     ],
     "answer_index": 3,
     "explanation": "The brave firefighter helped people.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_1"
   },
   {
     "id": "practice_vocab_016",
@@ -523,8 +523,8 @@
     ],
     "answer_index": 0,
     "explanation": "They want to build a bridge.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_1"
   },
   {
     "id": "practice_vocab_017",
@@ -540,8 +540,8 @@
     ],
     "answer_index": 3,
     "explanation": "Be careful on the road.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_1"
   },
   {
     "id": "practice_vocab_018",
@@ -557,8 +557,8 @@
     ],
     "answer_index": 1,
     "explanation": "Small habits can create change.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_1"
   },
   {
     "id": "practice_vocab_019",
@@ -574,8 +574,8 @@
     ],
     "answer_index": 0,
     "explanation": "It was a difficult choice.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_1"
   },
   {
     "id": "practice_vocab_020",
@@ -591,8 +591,8 @@
     ],
     "answer_index": 3,
     "explanation": "Keep your room clean.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_1"
   },
   {
     "id": "practice_vocab_021",
@@ -608,8 +608,8 @@
     ],
     "answer_index": 2,
     "explanation": "English helps us communicate internationally.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_2"
   },
   {
     "id": "practice_vocab_022",
@@ -625,8 +625,8 @@
     ],
     "answer_index": 3,
     "explanation": "Complete the task today.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_2"
   },
   {
     "id": "practice_vocab_023",
@@ -642,8 +642,8 @@
     ],
     "answer_index": 1,
     "explanation": "Practice builds confidence.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_2"
   },
   {
     "id": "practice_vocab_024",
@@ -659,8 +659,8 @@
     ],
     "answer_index": 1,
     "explanation": "Consider all the options.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_2"
   },
   {
     "id": "practice_vocab_025",
@@ -676,8 +676,8 @@
     ],
     "answer_index": 2,
     "explanation": "Students can create useful projects.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_2"
   },
   {
     "id": "practice_vocab_026",
@@ -693,8 +693,8 @@
     ],
     "answer_index": 2,
     "explanation": "Smoking creates health danger.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_2"
   },
   {
     "id": "practice_vocab_027",
@@ -710,8 +710,8 @@
     ],
     "answer_index": 1,
     "explanation": "Think before you decide.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_2"
   },
   {
     "id": "practice_vocab_028",
@@ -727,8 +727,8 @@
     ],
     "answer_index": 0,
     "explanation": "Reading develops vocabulary.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_2"
   },
   {
     "id": "practice_vocab_029",
@@ -744,8 +744,8 @@
     ],
     "answer_index": 2,
     "explanation": "The two ideas are different.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_2"
   },
   {
     "id": "practice_vocab_030",
@@ -761,8 +761,8 @@
     ],
     "answer_index": 1,
     "explanation": "The question is difficult.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_2"
   },
   {
     "id": "practice_vocab_031",
@@ -778,8 +778,8 @@
     ],
     "answer_index": 2,
     "explanation": "Education changes lives.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_2"
   },
   {
     "id": "practice_vocab_032",
@@ -795,8 +795,8 @@
     ],
     "answer_index": 2,
     "explanation": "Success requires effort.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_2"
   },
   {
     "id": "practice_vocab_033",
@@ -812,8 +812,8 @@
     ],
     "answer_index": 2,
     "explanation": "We should protect the environment.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_2"
   },
   {
     "id": "practice_vocab_034",
@@ -829,8 +829,8 @@
     ],
     "answer_index": 0,
     "explanation": "Give an example.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_2"
   },
   {
     "id": "practice_vocab_035",
@@ -846,8 +846,8 @@
     ],
     "answer_index": 1,
     "explanation": "Travel gives us experience.",
-    "coin_cost": 2,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_2"
   },
   {
     "id": "practice_translation_001",
@@ -856,8 +856,8 @@
     "title": "Bangla to English",
     "question": "আমি প্রতিদিন ইংরেজি পড়ি।",
     "answer": "I study English every day.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_1"
   },
   {
     "id": "practice_translation_002",
@@ -866,8 +866,8 @@
     "title": "Bangla to English",
     "question": "সে স্কুলে যায়।",
     "answer": "He goes to school.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_1"
   },
   {
     "id": "practice_translation_003",
@@ -876,8 +876,8 @@
     "title": "Bangla to English",
     "question": "আমরা সময় নষ্ট করা উচিত নয়।",
     "answer": "We should not waste time.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_1"
   },
   {
     "id": "practice_translation_004",
@@ -886,8 +886,8 @@
     "title": "Bangla to English",
     "question": "তুমি কি আমাকে সাহায্য করবে?",
     "answer": "Will you help me?",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_1"
   },
   {
     "id": "practice_translation_005",
@@ -896,8 +896,8 @@
     "title": "Bangla to English",
     "question": "আজ আকাশ পরিষ্কার।",
     "answer": "The sky is clear today.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_1"
   },
   {
     "id": "practice_translation_006",
@@ -906,8 +906,8 @@
     "title": "Bangla to English",
     "question": "বই আমাদের জ্ঞান বাড়ায়।",
     "answer": "Books increase our knowledge.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_1"
   },
   {
     "id": "practice_translation_007",
@@ -916,8 +916,8 @@
     "title": "Bangla to English",
     "question": "স্বাস্থ্যই সম্পদ।",
     "answer": "Health is wealth.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_1"
   },
   {
     "id": "practice_translation_008",
@@ -926,8 +926,8 @@
     "title": "Bangla to English",
     "question": "সময় খুব মূল্যবান।",
     "answer": "Time is very valuable.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_1"
   },
   {
     "id": "practice_translation_009",
@@ -936,8 +936,8 @@
     "title": "Bangla to English",
     "question": "গাছ আমাদের অক্সিজেন দেয়।",
     "answer": "Trees give us oxygen.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_1"
   },
   {
     "id": "practice_translation_010",
@@ -946,8 +946,8 @@
     "title": "Bangla to English",
     "question": "আমাদের পরিবেশ রক্ষা করা উচিত।",
     "answer": "We should protect our environment.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_1"
   },
   {
     "id": "practice_translation_011",
@@ -956,8 +956,8 @@
     "title": "Bangla to English",
     "question": "সে গতকাল বাজারে গিয়েছিল।",
     "answer": "He went to the market yesterday.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_1"
   },
   {
     "id": "practice_translation_012",
@@ -966,8 +966,8 @@
     "title": "Bangla to English",
     "question": "আমি কাজটি শেষ করেছি।",
     "answer": "I have completed the work.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_1"
   },
   {
     "id": "practice_translation_013",
@@ -976,8 +976,8 @@
     "title": "Bangla to English",
     "question": "তারা মাঠে খেলছে।",
     "answer": "They are playing in the field.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_1"
   },
   {
     "id": "practice_translation_014",
@@ -986,8 +986,8 @@
     "title": "Bangla to English",
     "question": "বৃষ্টি হলে আমরা ঘরে থাকব।",
     "answer": "If it rains, we will stay at home.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_1"
   },
   {
     "id": "practice_translation_015",
@@ -996,8 +996,8 @@
     "title": "Bangla to English",
     "question": "তুমি কোথায় থাকো?",
     "answer": "Where do you live?",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_1"
   },
   {
     "id": "practice_translation_016",
@@ -1006,8 +1006,8 @@
     "title": "Bangla to English",
     "question": "সে খুব মনোযোগ দিয়ে পড়ে।",
     "answer": "She studies very attentively.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_1"
   },
   {
     "id": "practice_translation_017",
@@ -1016,8 +1016,8 @@
     "title": "Bangla to English",
     "question": "আমাদের নিয়মিত ব্যায়াম করা উচিত।",
     "answer": "We should exercise regularly.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_1"
   },
   {
     "id": "practice_translation_018",
@@ -1026,8 +1026,8 @@
     "title": "Bangla to English",
     "question": "সততা একটি মহৎ গুণ।",
     "answer": "Honesty is a noble quality.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_1"
   },
   {
     "id": "practice_translation_019",
@@ -1036,8 +1036,8 @@
     "title": "Bangla to English",
     "question": "পরিশ্রম সাফল্যের চাবিকাঠি।",
     "answer": "Industry is the key to success.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_2"
   },
   {
     "id": "practice_translation_020",
@@ -1046,8 +1046,8 @@
     "title": "Bangla to English",
     "question": "একতা শক্তি।",
     "answer": "Unity is strength.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_2"
   },
   {
     "id": "practice_translation_021",
@@ -1056,8 +1056,8 @@
     "title": "Bangla to English",
     "question": "আজ আমি ব্যস্ত।",
     "answer": "I am busy today.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_2"
   },
   {
     "id": "practice_translation_022",
@@ -1066,8 +1066,8 @@
     "title": "Bangla to English",
     "question": "সে আমাকে একটি বই দিয়েছে।",
     "answer": "He gave me a book.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_2"
   },
   {
     "id": "practice_translation_023",
@@ -1076,8 +1076,8 @@
     "title": "Bangla to English",
     "question": "আমরা আগামীকাল ভ্রমণে যাব।",
     "answer": "We will go on a trip tomorrow.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_2"
   },
   {
     "id": "practice_translation_024",
@@ -1086,8 +1086,8 @@
     "title": "Bangla to English",
     "question": "তুমি কি ইংরেজি বলতে পারো?",
     "answer": "Can you speak English?",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_2"
   },
   {
     "id": "practice_translation_025",
@@ -1096,8 +1096,8 @@
     "title": "Bangla to English",
     "question": "আমার একটি নতুন কলম আছে।",
     "answer": "I have a new pen.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_2"
   },
   {
     "id": "practice_translation_026",
@@ -1106,8 +1106,8 @@
     "title": "Bangla to English",
     "question": "শিক্ষক আমাদের পাঠ বুঝিয়ে দিলেন।",
     "answer": "The teacher explained the lesson to us.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_2"
   },
   {
     "id": "practice_translation_027",
@@ -1116,8 +1116,8 @@
     "title": "Bangla to English",
     "question": "আমি সকালে তাড়াতাড়ি উঠি।",
     "answer": "I get up early in the morning.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_2"
   },
   {
     "id": "practice_translation_028",
@@ -1126,8 +1126,8 @@
     "title": "Bangla to English",
     "question": "পানি ছাড়া আমরা বাঁচতে পারি না।",
     "answer": "We cannot live without water.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_2"
   },
   {
     "id": "practice_translation_029",
@@ -1136,8 +1136,8 @@
     "title": "Bangla to English",
     "question": "সবাই শান্তি চায়।",
     "answer": "Everyone wants peace.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_2"
   },
   {
     "id": "practice_translation_030",
@@ -1146,8 +1146,8 @@
     "title": "Bangla to English",
     "question": "ভালো অভ্যাস মানুষকে সফল করে।",
     "answer": "Good habits make a person successful.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_2"
   },
   {
     "id": "practice_vocab_081",
@@ -1163,8 +1163,8 @@
     ],
     "answer_index": 3,
     "explanation": "The information must be accurate.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_2"
   },
   {
     "id": "practice_vocab_082",
@@ -1180,8 +1180,8 @@
     ],
     "answer_index": 1,
     "explanation": "Online learning has many advantages.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_2"
   },
   {
     "id": "practice_vocab_083",
@@ -1197,8 +1197,8 @@
     ],
     "answer_index": 3,
     "explanation": "Students should be aware of cyber safety.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_2"
   },
   {
     "id": "practice_vocab_084",
@@ -1214,8 +1214,8 @@
     ],
     "answer_index": 0,
     "explanation": "We should behave politely.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_2"
   },
   {
     "id": "practice_vocab_085",
@@ -1231,8 +1231,8 @@
     ],
     "answer_index": 1,
     "explanation": "Every challenge teaches us something.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_2"
   },
   {
     "id": "practice_vocab_086",
@@ -1248,8 +1248,8 @@
     ],
     "answer_index": 2,
     "explanation": "A good citizen follows the law.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_3"
   },
   {
     "id": "practice_vocab_087",
@@ -1265,8 +1265,8 @@
     ],
     "answer_index": 1,
     "explanation": "Compare the two answers.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_3"
   },
   {
     "id": "practice_vocab_088",
@@ -1282,8 +1282,8 @@
     ],
     "answer_index": 1,
     "explanation": "Continue your practice every day.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_3"
   },
   {
     "id": "practice_vocab_089",
@@ -1299,8 +1299,8 @@
     ],
     "answer_index": 1,
     "explanation": "Bangladesh has a rich culture.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_3"
   },
   {
     "id": "practice_vocab_090",
@@ -1316,8 +1316,8 @@
     ],
     "answer_index": 1,
     "explanation": "A curious student asks questions.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_3"
   },
   {
     "id": "practice_vocab_091",
@@ -1333,8 +1333,8 @@
     ],
     "answer_index": 0,
     "explanation": "Success does not depend on luck alone.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_3"
   },
   {
     "id": "practice_vocab_092",
@@ -1350,8 +1350,8 @@
     ],
     "answer_index": 1,
     "explanation": "This is an effective study method.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_3"
   },
   {
     "id": "practice_vocab_093",
@@ -1367,8 +1367,8 @@
     ],
     "answer_index": 1,
     "explanation": "Teachers encourage students to read.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_3"
   },
   {
     "id": "practice_vocab_094",
@@ -1384,8 +1384,8 @@
     ],
     "answer_index": 1,
     "explanation": "Clean water is essential for life.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_3"
   },
   {
     "id": "practice_vocab_095",
@@ -1401,8 +1401,8 @@
     ],
     "answer_index": 1,
     "explanation": "Focus on one task at a time.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_3"
   },
   {
     "id": "practice_vocab_096",
@@ -1418,8 +1418,8 @@
     ],
     "answer_index": 2,
     "explanation": "A generous person helps others.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_3"
   },
   {
     "id": "practice_vocab_097",
@@ -1435,8 +1435,8 @@
     ],
     "answer_index": 2,
     "explanation": "Your English will improve gradually.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_3"
   },
   {
     "id": "practice_vocab_098",
@@ -1452,8 +1452,8 @@
     ],
     "answer_index": 1,
     "explanation": "Smoking is harmful to health.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_3"
   },
   {
     "id": "practice_vocab_099",
@@ -1469,8 +1469,8 @@
     ],
     "answer_index": 2,
     "explanation": "Identify the main idea.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_3"
   },
   {
     "id": "practice_vocab_100",
@@ -1486,8 +1486,8 @@
     ],
     "answer_index": 0,
     "explanation": "Education helps people become independent.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_3"
   },
   {
     "id": "practice_vocab_101",
@@ -1503,8 +1503,8 @@
     ],
     "answer_index": 0,
     "explanation": "Friends can have a strong influence.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_3"
   },
   {
     "id": "practice_vocab_102",
@@ -1520,8 +1520,8 @@
     ],
     "answer_index": 0,
     "explanation": "The internet provides information.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_3"
   },
   {
     "id": "practice_vocab_103",
@@ -1537,8 +1537,8 @@
     ],
     "answer_index": 0,
     "explanation": "The train journey was enjoyable.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_3"
   },
   {
     "id": "practice_vocab_104",
@@ -1554,8 +1554,8 @@
     ],
     "answer_index": 2,
     "explanation": "Maintain a regular study routine.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_3"
   },
   {
     "id": "practice_vocab_105",
@@ -1571,8 +1571,8 @@
     ],
     "answer_index": 3,
     "explanation": "Choose a simple learning method.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "vocabulary_pack_3"
   },
   {
     "id": "practice_translation_106",
@@ -1581,8 +1581,8 @@
     "title": "Translation Challenge",
     "question": "আমি প্রতিদিন নতুন শব্দ শিখি।",
     "answer": "I learn new words every day.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_2"
   },
   {
     "id": "practice_translation_107",
@@ -1591,8 +1591,8 @@
     "title": "Translation Challenge",
     "question": "সে খুব সুন্দর ইংরেজি লিখে।",
     "answer": "She writes English very well.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_2"
   },
   {
     "id": "practice_translation_108",
@@ -1601,8 +1601,8 @@
     "title": "Translation Challenge",
     "question": "আমরা একসাথে পড়াশোনা করি।",
     "answer": "We study together.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_2"
   },
   {
     "id": "practice_translation_109",
@@ -1611,8 +1611,8 @@
     "title": "Translation Challenge",
     "question": "তারা সময়মতো পৌঁছেছিল।",
     "answer": "They arrived on time.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_2"
   },
   {
     "id": "practice_translation_110",
@@ -1621,8 +1621,8 @@
     "title": "Translation Challenge",
     "question": "তোমার পরামর্শটি খুব উপকারী।",
     "answer": "Your advice is very useful.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_2"
   },
   {
     "id": "practice_translation_111",
@@ -1631,8 +1631,8 @@
     "title": "Translation Challenge",
     "question": "পরীক্ষার আগে ভালোভাবে প্রস্তুতি নাও।",
     "answer": "Prepare well before the examination.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_2"
   },
   {
     "id": "practice_translation_112",
@@ -1641,8 +1641,8 @@
     "title": "Translation Challenge",
     "question": "আমাদের সত্য কথা বলা উচিত।",
     "answer": "We should tell the truth.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_3"
   },
   {
     "id": "practice_translation_113",
@@ -1651,8 +1651,8 @@
     "title": "Translation Challenge",
     "question": "শিশুরা মাঠে আনন্দ করে খেলছে।",
     "answer": "The children are playing happily in the field.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_3"
   },
   {
     "id": "practice_translation_114",
@@ -1661,8 +1661,8 @@
     "title": "Translation Challenge",
     "question": "আমি এখন একটি গল্প পড়ছি।",
     "answer": "I am reading a story now.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_3"
   },
   {
     "id": "practice_translation_115",
@@ -1671,8 +1671,8 @@
     "title": "Translation Challenge",
     "question": "সে কাজটি করতে চেষ্টা করেছিল।",
     "answer": "He tried to do the work.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_3"
   },
   {
     "id": "practice_translation_116",
@@ -1681,8 +1681,8 @@
     "title": "Translation Challenge",
     "question": "তুমি নিয়মিত অনুশীলন করলে উন্নতি করবে।",
     "answer": "You will improve if you practice regularly.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_3"
   },
   {
     "id": "practice_translation_117",
@@ -1691,8 +1691,8 @@
     "title": "Translation Challenge",
     "question": "আজ আমাদের কোনো ক্লাস নেই।",
     "answer": "We have no class today.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_3"
   },
   {
     "id": "practice_translation_118",
@@ -1701,8 +1701,8 @@
     "title": "Translation Challenge",
     "question": "আমার ভাই ঢাকায় কাজ করে।",
     "answer": "My brother works in Dhaka.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_3"
   },
   {
     "id": "practice_translation_119",
@@ -1711,8 +1711,8 @@
     "title": "Translation Challenge",
     "question": "আমরা গত সপ্তাহে একটি বইমেলায় গিয়েছিলাম।",
     "answer": "We went to a book fair last week.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_3"
   },
   {
     "id": "practice_translation_120",
@@ -1721,8 +1721,8 @@
     "title": "Translation Challenge",
     "question": "সে আমাকে অপেক্ষা করতে বলল।",
     "answer": "He told me to wait.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_3"
   },
   {
     "id": "practice_translation_121",
@@ -1731,8 +1731,8 @@
     "title": "Translation Challenge",
     "question": "আমি বিষয়টি বুঝতে পারিনি।",
     "answer": "I could not understand the matter.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_3"
   },
   {
     "id": "practice_translation_122",
@@ -1741,8 +1741,8 @@
     "title": "Translation Challenge",
     "question": "তারা আগামী মাসে পরীক্ষা দেবে।",
     "answer": "They will take the examination next month.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_3"
   },
   {
     "id": "practice_translation_123",
@@ -1751,8 +1751,8 @@
     "title": "Translation Challenge",
     "question": "আমাদের দেশকে ভালোবাসা উচিত।",
     "answer": "We should love our country.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_3"
   },
   {
     "id": "practice_translation_124",
@@ -1761,8 +1761,8 @@
     "title": "Translation Challenge",
     "question": "পরিষ্কার-পরিচ্ছন্নতা সুস্বাস্থ্যের জন্য গুরুত্বপূর্ণ।",
     "answer": "Cleanliness is important for good health.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_3"
   },
   {
     "id": "practice_translation_125",
@@ -1771,8 +1771,8 @@
     "title": "Translation Challenge",
     "question": "কেউই ভুলের ঊর্ধ্বে নয়।",
     "answer": "Nobody is above mistakes.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_3"
   },
   {
     "id": "practice_translation_126",
@@ -1781,8 +1781,8 @@
     "title": "Translation Challenge",
     "question": "আজকের কাজ আজই শেষ করো।",
     "answer": "Finish today’s work today.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_3"
   },
   {
     "id": "practice_translation_127",
@@ -1791,8 +1791,8 @@
     "title": "Translation Challenge",
     "question": "শিক্ষা জাতির মেরুদণ্ড।",
     "answer": "Education is the backbone of a nation.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_3"
   },
   {
     "id": "practice_translation_128",
@@ -1801,8 +1801,8 @@
     "title": "Translation Challenge",
     "question": "সে আমার কথা মন দিয়ে শুনল।",
     "answer": "She listened to me attentively.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_3"
   },
   {
     "id": "practice_translation_129",
@@ -1811,8 +1811,8 @@
     "title": "Translation Challenge",
     "question": "আমি ইংরেজিতে কথা বলার চেষ্টা করছি।",
     "answer": "I am trying to speak in English.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_3"
   },
   {
     "id": "practice_translation_130",
@@ -1821,7 +1821,7 @@
     "title": "Translation Challenge",
     "question": "বইটি পড়ে আমি অনেক কিছু শিখেছি।",
     "answer": "I learned many things by reading the book.",
-    "coin_cost": 3,
-    "reward_coin": 1
+    "reward_coin": 1,
+    "pack_id": "translation_pack_3"
   }
 ]

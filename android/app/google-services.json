@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "950098443544",
+    "project_id": "lexishikhi",
+    "storage_bucket": "lexishikhi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950098443544:android:98bfa8865d224dd92ef26d",
+        "android_client_info": {
+          "package_name": "com.lexishikhi.learnenglish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950098443544-akc2b9at1b4t2oi94fsbide8t9h7ijf8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lexishikhi.learnenglish",
+            "certificate_hash": "d8d3191b5eb8495c909f5c58ddfa8a8b732b0a09"
+          }
+        },
+        {
+          "client_id": "950098443544-bn8fuurjadldehi8tootbdm1a1uvionj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg_iP_fgGSW4t_c1wcMwXZgbk9KPqFf8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950098443544-bn8fuurjadldehi8tootbdm1a1uvionj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

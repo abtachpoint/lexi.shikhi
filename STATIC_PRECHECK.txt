@@ -1,0 +1,118 @@
+LexiShikhi v1.2.0 automated static precheck
+================================================
+
+[OK] JSON categories.json
+[OK] JSON completing_stories.json
+[OK] JSON compositions.json
+[OK] JSON cv_job.json
+[OK] JSON dialogues.json
+[OK] JSON emails.json
+[OK] JSON grammar.json
+[OK] JSON letters_applications.json
+[OK] JSON paragraphs.json
+[OK] JSON practice.json
+[OK] JSON practice_packs.json
+[OK] JSON reports.json
+[OK] JSON stories.json
+[OK] JSON translation.json
+[OK] JSON vocabulary.json
+[OK] JSON writing_categories.json
+[OK] Practice pack count = 8 — 8
+[OK] Practice item count = 130 — 130
+[OK] Practice coverage complete — packed=130 unique=130
+[OK] YAML pubspec.yaml
+[OK] YAML codemagic.yaml
+[OK] XML android/app/src/main/AndroidManifest.xml
+[OK] XML android/app/src/main/res/values/styles.xml
+[OK] XML android/app/src/main/res/values-night/styles.xml
+[OK] XML android/app/src/main/res/drawable/launch_background.xml
+[OK] IAP IDs exact — ['coins_110', 'coins_2000', 'coins_240', 'coins_390', 'coins_50', 'coins_560']
+[OK] Package build.gradle
+[OK] compileSdk 36
+[OK] targetSdk 36
+[OK] minSdk 24
+[OK] AGP 8.11.1
+[OK] Kotlin 2.2.20
+[OK] Google services plugin 4.5.0
+[OK] BILLING permission
+[OK] AdMob app ID
+[OK] Rewarded prod ID
+[OK] Codemagic signing identity
+[OK] Codemagic test ads APK
+[OK] Codemagic prod ads AAB
+[OK] google-services package
+[OK] google-services web OAuth client
+[OK] Dart delimiter lib/app_state.dart
+[OK] Dart delimiter lib/config/app_config.dart
+[OK] Dart delimiter lib/config/iap_products.dart
+[OK] Dart delimiter lib/main.dart
+[OK] Dart delimiter lib/screens/account_screen.dart
+[OK] Import lib/screens/account_screen.dart -> ../app_state.dart
+[OK] Import lib/screens/account_screen.dart -> ../services/auth_service.dart
+[OK] Dart delimiter lib/screens/coin_history_screen.dart
+[OK] Import lib/screens/coin_history_screen.dart -> ../app_state.dart
+[OK] Dart delimiter lib/screens/email_auth_screen.dart
+[OK] Import lib/screens/email_auth_screen.dart -> ../app_state.dart
+[OK] Import lib/screens/email_auth_screen.dart -> ../services/auth_service.dart
+[OK] Dart delimiter lib/screens/home_screen.dart
+[OK] Import lib/screens/home_screen.dart -> ../app_state.dart
+[OK] Import lib/screens/home_screen.dart -> ../config/app_config.dart
+[OK] Dart delimiter lib/screens/home_shell.dart
+[OK] Import lib/screens/home_shell.dart -> ../app_state.dart
+[OK] Dart delimiter lib/screens/onboarding_screen.dart
+[OK] Import lib/screens/onboarding_screen.dart -> ../app_state.dart
+[OK] Import lib/screens/onboarding_screen.dart -> ../config/app_config.dart
+[OK] Import lib/screens/onboarding_screen.dart -> ../services/auth_service.dart
+[OK] Dart delimiter lib/screens/practice_detail_screen.dart
+[OK] Import lib/screens/practice_detail_screen.dart -> ../app_state.dart
+[OK] Dart delimiter lib/screens/practice_pack_detail_screen.dart
+[OK] Import lib/screens/practice_pack_detail_screen.dart -> ../app_state.dart
+[OK] Dart delimiter lib/screens/practice_screen.dart
+[OK] Import lib/screens/practice_screen.dart -> ../app_state.dart
+[OK] Import lib/screens/practice_screen.dart -> ../services/local_content_service.dart
+[OK] Dart delimiter lib/screens/profile_screen.dart
+[OK] Import lib/screens/profile_screen.dart -> ../app_state.dart
+[OK] Import lib/screens/profile_screen.dart -> ../services/auth_service.dart
+[OK] Dart delimiter lib/screens/saved_screen.dart
+[OK] Import lib/screens/saved_screen.dart -> ../app_state.dart
+[OK] Import lib/screens/saved_screen.dart -> ../services/local_content_service.dart
+[OK] Dart delimiter lib/screens/settings_screen.dart
+[OK] Import lib/screens/settings_screen.dart -> ../app_state.dart
+[OK] Import lib/screens/settings_screen.dart -> ../config/app_config.dart
+[OK] Import lib/screens/settings_screen.dart -> ../services/purchase_service.dart
+[OK] Import lib/screens/settings_screen.dart -> ../services/rewarded_ad_service.dart
+[OK] Dart delimiter lib/screens/simple_data_screen.dart
+[OK] Import lib/screens/simple_data_screen.dart -> ../app_state.dart
+[OK] Import lib/screens/simple_data_screen.dart -> ../services/local_content_service.dart
+[OK] Dart delimiter lib/screens/text_info_screen.dart
+[OK] Dart delimiter lib/screens/topic_detail_screen.dart
+[OK] Import lib/screens/topic_detail_screen.dart -> ../app_state.dart
+[OK] Dart delimiter lib/screens/topic_list_screen.dart
+[OK] Import lib/screens/topic_list_screen.dart -> ../app_state.dart
+[OK] Import lib/screens/topic_list_screen.dart -> ../services/local_content_service.dart
+[OK] Dart delimiter lib/screens/wallet_screen.dart
+[OK] Import lib/screens/wallet_screen.dart -> ../app_state.dart
+[OK] Import lib/screens/wallet_screen.dart -> ../config/app_config.dart
+[OK] Import lib/screens/wallet_screen.dart -> ../config/iap_products.dart
+[OK] Import lib/screens/wallet_screen.dart -> ../services/purchase_service.dart
+[OK] Import lib/screens/wallet_screen.dart -> ../services/rewarded_ad_service.dart
+[OK] Dart delimiter lib/screens/writing_categories_screen.dart
+[OK] Import lib/screens/writing_categories_screen.dart -> ../app_state.dart
+[OK] Import lib/screens/writing_categories_screen.dart -> ../services/local_content_service.dart
+[OK] Dart delimiter lib/services/auth_service.dart
+[OK] Dart delimiter lib/services/local_content_service.dart
+[OK] Dart delimiter lib/services/purchase_service.dart
+[OK] Import lib/services/purchase_service.dart -> ../app_state.dart
+[OK] Import lib/services/purchase_service.dart -> ../config/iap_products.dart
+[OK] Dart delimiter lib/services/rewarded_ad_service.dart
+[OK] Import lib/services/rewarded_ad_service.dart -> ../app_state.dart
+[OK] Import lib/services/rewarded_ad_service.dart -> ../config/app_config.dart
+[OK] No stale dev/IAP placeholder text — []
+[OK] No keystore in project
+[OK] Public privacy page
+[OK] Public deletion page
+
+Total checks: 110
+Failures: 0
+
+This is a static/config precheck. Final Flutter compilation is performed by Codemagic.
