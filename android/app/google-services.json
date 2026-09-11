@@ -14,11 +14,27 @@
       },
       "oauth_client": [
         {
+          "client_id": "950098443544-5nuuuu4fvv04b52tccuu5b8slrb7f9ts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lexishikhi.learnenglish",
+            "certificate_hash": "8bc3089a6dc7a43dbb3db87acd17c6e5306f7ddb"
+          }
+        },
+        {
           "client_id": "950098443544-akc2b9at1b4t2oi94fsbide8t9h7ijf8.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.lexishikhi.learnenglish",
             "certificate_hash": "d8d3191b5eb8495c909f5c58ddfa8a8b732b0a09"
+          }
+        },
+        {
+          "client_id": "950098443544-esojcrl802psu8p01qmvt99e9iqoocff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lexishikhi.learnenglish",
+            "certificate_hash": "ede805148b3e36185bcf2fbaf3c22a93f72ebb99"
           }
         },
         {

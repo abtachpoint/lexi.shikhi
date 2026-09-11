@@ -16,6 +16,7 @@ class RewardedAdService extends ChangeNotifier {
   bool consentChecked = false;
   bool privacyOptionsRequired = false;
   bool _mobileAdsInitialized = false;
+  Timer? _retryTimer;
 
   bool get ready => _ad != null;
   bool get loading => _loadingCompleter != null;
@@ -26,7 +27,8 @@ class RewardedAdService extends ChangeNotifier {
     final canRequest = await ConsentInformation.instance.canRequestAds();
     if (canRequest) {
       await _ensureMobileAdsInitialized();
-      await load();
+      final loaded = await load();
+      if (!loaded) _scheduleRetry();
     }
     notifyListeners();
   }
@@ -113,6 +115,8 @@ class RewardedAdService extends ChangeNotifier {
       request: const AdRequest(),
       rewardedAdLoadCallback: RewardedAdLoadCallback(
         onAdLoaded: (ad) {
+          _retryTimer?.cancel();
+          _retryTimer = null;
           _ad = ad;
           _loadingCompleter = null;
           if (!completer.isCompleted) completer.complete(true);
@@ -124,6 +128,7 @@ class RewardedAdService extends ChangeNotifier {
           _loadingCompleter = null;
           if (!completer.isCompleted) completer.complete(false);
           notifyListeners();
+          _scheduleRetry();
         },
       ),
     );

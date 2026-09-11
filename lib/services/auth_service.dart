@@ -8,6 +8,9 @@ class AuthService extends ChangeNotifier {
 
   static final AuthService instance = AuthService._();
 
+  static const String _googleServerClientId =
+      '950098443544-bn8fuurjadldehi8tootbdm1a1uvionj.apps.googleusercontent.com';
+
   final FirebaseAuth _auth = FirebaseAuth.instance;
   final GoogleSignIn _google = GoogleSignIn.instance;
 
@@ -21,7 +24,7 @@ class AuthService extends ChangeNotifier {
   Future<void> initialize() async {
     if (_googleInitialized) return;
     try {
-      await _google.initialize();
+      await _google.initialize(serverClientId: _googleServerClientId);
       _googleInitialized = true;
     } catch (error) {
       lastError = _friendlyError(error);
@@ -32,7 +35,7 @@ class AuthService extends ChangeNotifier {
   Future<UserCredential?> signInWithGoogle() async {
     return _guard<UserCredential?>(() async {
       if (!_googleInitialized) {
-        await _google.initialize();
+        await _google.initialize(serverClientId: _googleServerClientId);
         _googleInitialized = true;
       }
       final account = await _google.authenticate();
@@ -121,7 +124,7 @@ class AuthService extends ChangeNotifier {
         await current.reauthenticateWithCredential(credential);
       } else if (providers.contains('google.com')) {
         if (!_googleInitialized) {
-          await _google.initialize();
+          await _google.initialize(serverClientId: _googleServerClientId);
           _googleInitialized = true;
         }
         final googleAccount = await _google.authenticate();
