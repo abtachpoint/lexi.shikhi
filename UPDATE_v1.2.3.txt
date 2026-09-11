@@ -1,7 +1,0 @@
-LexiShikhi v1.2.3 update package
-- Firebase google-services.json refreshed after Play signing SHA-1 fingerprints were added.
-- Google Sign-In explicitly uses the Firebase Web OAuth server client ID.
-- Installed Android launcher icon replaced with the new LexiShikhi icon.
-- Rewarded ad service retains consent handling and now retries failed loading in the background.
-- App version bumped to 1.2.1+4 for the next Play upload.
-- Codemagic test APK still uses Google test rewarded ads; Play AAB uses the production rewarded ad unit.

@@ -136,6 +136,16 @@ class RewardedAdService extends ChangeNotifier {
     return completer.future;
   }
 
+  void _scheduleRetry() {
+    if (_retryTimer?.isActive ?? false) return;
+    _retryTimer = Timer(const Duration(seconds: 20), () {
+      _retryTimer = null;
+      if (_ad == null && !showing) {
+        unawaited(load());
+      }
+    });
+  }
+
   Future<bool> show(AppState appState) async {
     if (showing || !appState.canWatchRewardedAd) return false;
     final loaded = await load();
@@ -178,4 +188,13 @@ class RewardedAdService extends ChangeNotifier {
 
     return result.future;
   }
+  @override
+  void dispose() {
+    _retryTimer?.cancel();
+    _retryTimer = null;
+    _ad?.dispose();
+    _ad = null;
+    super.dispose();
+  }
+
 }

@@ -1,0 +1,6 @@
+LexiShikhi v1.2.4
+
+- Fixed rewarded ad retry build error (_scheduleRetry).
+- Keeps latest Firebase Google Sign-In configuration.
+- Keeps new launcher icon.
+- Version: 1.2.4+5.
