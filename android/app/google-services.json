@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "950098443544",
+    "project_id": "lexishikhi",
+    "storage_bucket": "lexishikhi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950098443544:android:98bfa8865d224dd92ef26d",
+        "android_client_info": {
+          "package_name": "com.lexishikhi.learnenglish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950098443544-3is0eqvra278i5s1a1htclf82f09rnap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lexishikhi.learnenglish",
+            "certificate_hash": "49c98c200c5d9f208222e789ec0ea0fc1c8d888b"
+          }
+        },
+        {
+          "client_id": "950098443544-5nuuuu4fvv04b52tccuu5b8slrb7f9ts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lexishikhi.learnenglish",
+            "certificate_hash": "8bc3089a6dc7a43dbb3db87acd17c6e5306f7ddb"
+          }
+        },
+        {
+          "client_id": "950098443544-akc2b9at1b4t2oi94fsbide8t9h7ijf8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lexishikhi.learnenglish",
+            "certificate_hash": "d8d3191b5eb8495c909f5c58ddfa8a8b732b0a09"
+          }
+        },
+        {
+          "client_id": "950098443544-esojcrl802psu8p01qmvt99e9iqoocff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lexishikhi.learnenglish",
+            "certificate_hash": "ede805148b3e36185bcf2fbaf3c22a93f72ebb99"
+          }
+        },
+        {
+          "client_id": "950098443544-bn8fuurjadldehi8tootbdm1a1uvionj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg_iP_fgGSW4t_c1wcMwXZgbk9KPqFf8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950098443544-bn8fuurjadldehi8tootbdm1a1uvionj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
